@@ -1687,6 +1687,20 @@
                     "selected": true
                 },
                 {
+                    "name": "Sante",
+                    "socials": [],
+                    "torrent_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/user/Ghegghe"
+                    }],
+                    "rss_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/?page=rss&u=Ghegghe"
+                    }],
+                    "notes": "",
+                    "selected": true
+                },
+                {
                     "name": "JOKay_",
                     "socials": [],
                     "torrent_sources": [{

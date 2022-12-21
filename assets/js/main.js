@@ -163,8 +163,15 @@ function normalize_link(link) {
 }
 
 function pre_build(){
+    let do_web = document.getElementById("web").checked
+    let do_torrent = document.getElementById("torrent").checked
     let destDiv = document.getElementById("divResultsLinks");
     destDiv.innerHTML = "";
+
+    if (!do_web && !do_torrent){
+        return;
+    }
+
     let p = document.createElement("p");
     p.innerText = "Creazione links...";
     destDiv.appendChild(p)
@@ -178,11 +185,7 @@ function build_search() {
     let destDiv = document.getElementById("divResultsLinks");
     destDiv.innerHTML = "";
 
-
     let website_list = []
-
-    if (!do_web && !do_torrent)
-        return;
 
     for (let section_id in fansubData.data) {
         if (!fansubData.data.hasOwnProperty(section_id)) // this will check if key is owned by data object and not by any of it's ancestors
@@ -206,7 +209,10 @@ function build_search() {
     }
 
     //console.log(website_list)
-    const chunkSize = 30;
+
+    // chunk size must be dynamic -> (32 - number of search words)
+    let wordcount = search_term.trim().split(/\s+/).length
+    let chunkSize = 32 - wordcount;
     let chunk_num = 1;
     for (let i = 0; i < website_list.length; i += chunkSize) {
         const chunk = website_list.slice(i, i + chunkSize);
