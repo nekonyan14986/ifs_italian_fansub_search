@@ -101,11 +101,13 @@ function populate_table(table_id, data) {
             }
         )
 
+        let short_name = fansub.short_name ? " [" + fansub.short_name + "]" : ""
+
         row.innerHTML = `
 		<th scope="row">
 			<input type="checkbox" id="${table_id}-${index}" checked="${fansub.selected}" onclick="sel_row(this)" ifs_type="${table_id}" ifs_pos=${index}>
 		</th>
-		<td>${fansub.name}</td>
+		<td>${fansub.name} ${short_name}</td>
 		<td>${sito_socials}</td>
 		<td>${torrent_src}</td>
 		<td>${rss_src}</td>

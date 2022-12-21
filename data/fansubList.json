@@ -5,6 +5,7 @@
             "name": "Fansub Attivi",
             "groups": [{
                     "name": "Aegi Stranding",
+                    "short_name": "Aegi",
                     "socials": [{
                         "type": "web",
                         "value": "https://aegistranding.wordpress.com"
@@ -22,6 +23,7 @@
                 },
                 {
                     "name": "Anime Legacy ~ Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://t.me/s/animelegacyfansub"
@@ -52,6 +54,7 @@
                 },
                 {
                     "name": "AnimeShinigami",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://animeshinigami.altervista.org/joomla"
@@ -78,6 +81,7 @@
                 },
                 {
                     "name": "AsianWorld",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://www.asianworld.it"
@@ -102,6 +106,7 @@
                 },
                 {
                     "name": "Best Fansub Ever",
+                    "short_name": "BFE",
                     "socials": [{
                             "type": "web",
                             "value": "http://bestfansubever.forumfree.it"
@@ -133,6 +138,7 @@
                 },
                 {
                     "name": "BinKanTeam Fansub",
+                    "short_name": "BKT",
                     "socials": [{
                             "type": "web",
                             "value": "http://narutoninja.forumfree.it"
@@ -163,6 +169,7 @@
                 },
                 {
                     "name": "Bowling Ball Fansubs",
+                    "short_name": "BBF",
                     "socials": [{
                             "type": "web",
                             "value": "http://www.bowlingballfansubs.it"
@@ -201,6 +208,7 @@
                 },
                 {
                     "name": "Chaotic World of Delusions!",
+                    "short_name": "CWD",
                     "socials": [{
                             "type": "web",
                             "value": "https://cwod.openthesteinsgate.it"
@@ -236,6 +244,7 @@
                 },
                 {
                     "name": "Chokoreto Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://chokoretofansub.altervista.org"
@@ -267,6 +276,7 @@
                 },
                 {
                     "name": "Danger Zone Fansub",
+                    "short_name": "DZF",
                     "socials": [{
                             "type": "web",
                             "value": "http://www.dangerzonefansub.it"
@@ -285,7 +295,8 @@
                     "selected": true
                 },
                 {
-                    "name": "DCFS",
+                    "name": "DC Family Subs",
+                    "short_name": "DCFS",
                     "socials": [{
                             "type": "web",
                             "value": "https://dcfamilysubs.com"
@@ -329,6 +340,7 @@
                 },
                 {
                     "name": "Demone Celeste Team",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://demoneceleste.forumfree.it"
@@ -376,6 +388,7 @@
                 },
                 {
                     "name": "Emblem-Subs",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://www.emblem-subs.org"
@@ -407,6 +420,7 @@
                 },
                 {
                     "name": "Foxy63",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://foxy63subs.wordpress.com"
@@ -434,6 +448,7 @@
                 },
                 {
                     "name": "Gatto Nero Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://gattonerofansubita.wordpress.com"
@@ -456,6 +471,7 @@
                 },
                 {
                     "name": "Hanasaku Subs",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://www.hanasaku-subs.com"
@@ -487,6 +503,7 @@
                 },
                 {
                     "name": "Imperfect Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "facebook",
                             "value": "https://www.facebook.com/groups/ilparadisodeglianime"
@@ -507,6 +524,7 @@
                 },
                 {
                     "name": "Initial D Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://initialdfansub.forumcommunity.net"
@@ -542,6 +560,7 @@
                 },
                 {
                     "name": "Italian Sentai Subranger",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://www.subranger.it"
@@ -577,6 +596,7 @@
                 },
                 {
                     "name": "Jimaku-Subs",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://jimakusubs.netsons.org"
@@ -606,7 +626,8 @@
                     "selected": true
                 },
                 {
-                    "name": "[K.F.S] Kazuto Fansub Ita",
+                    "name": "Kazuto Fansub Ita",
+                    "short_name": "[K.F.S]",
                     "socials": [{
                         "type": "tg_channel",
                         "value": "https://t.me/KazutoFanSub"
@@ -618,6 +639,7 @@
                 },
                 {
                     "name": "KonaWolf Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://kwfansub.weebly.com"
@@ -649,6 +671,7 @@
                 },
                 {
                     "name": "Krosis Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://krosis-subs.weebly.com"
@@ -679,6 +702,7 @@
                 },
                 {
                     "name": "Leaf Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://leaf.lacumpa.biz"
@@ -695,6 +719,7 @@
                 },
                 {
                     "name": "L&K Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://lkfansub.wordpress.com"
@@ -715,6 +740,7 @@
                 },
                 {
                     "name": "LovelySubs",
+                    "short_name": "LS",
                     "socials": [{
                             "type": "web",
                             "value": "http://lovelysubs.weebly.com"
@@ -746,6 +772,7 @@
                 },
                 {
                     "name": "Lybris Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://lybrisfansub.wordpress.com"
@@ -770,6 +797,7 @@
                 },
                 {
                     "name": "Majotachi no Sub",
+                    "short_name": "MnS",
                     "socials": [{
                             "type": "web",
                             "value": "https://majotachinosub.com"
@@ -794,6 +822,7 @@
                 },
                 {
                     "name": "NafSub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://nafsub.weebly.com"
@@ -813,6 +842,7 @@
                 },
                 {
                     "name": "NappySubs",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://nappysubs.moe"
@@ -843,6 +873,7 @@
                 },
                 {
                     "name": "Norowa-sensei",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://maledizionedellaluna.wordpress.com"
@@ -875,6 +906,7 @@
                 },
                 {
                     "name": "Omnivium",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://omniviumfansub.github.io"
@@ -897,6 +929,7 @@
                 },
                 {
                     "name": "Otaku's Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "instagram",
                             "value": "https://instagram.com/anime_otaku_consigli?igshid=YmMyMTA2M2Y="
@@ -921,6 +954,7 @@
                 },
                 {
                     "name": "Owari Subs",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://www.owarisubs.lacumpa.biz"
@@ -964,6 +998,7 @@
                 },
                 {
                     "name": "Pantaloni Rossi",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://pantalonirossi.lacumpa.biz"
@@ -995,6 +1030,7 @@
                 },
                 {
                     "name": "Rakuen Subs",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://www.rakuen-subs.net"
@@ -1035,6 +1071,7 @@
                 },
                 {
                     "name": "RaMa Oriental Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://ramaorientalfansub.forumfree.it"
@@ -1107,6 +1144,7 @@
                 },
                 {
                     "name": "Re:Sub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://refansub550269117.wordpress.com"
@@ -1131,6 +1169,7 @@
                 },
                 {
                     "name": "Rorro Ranobe",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://rorroranobe.wordpress.com"
@@ -1155,6 +1194,7 @@
                 },
                 {
                     "name": "Ryuujin Subs",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://rjsubs.wordpress.com"
@@ -1175,6 +1215,7 @@
                 },
                 {
                     "name": "Sadame no Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://sadamenofansub.blogspot.com"
@@ -1214,6 +1255,7 @@
                 },
                 {
                     "name": "SaroSub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://sarosub.altervista.org"
@@ -1231,6 +1273,7 @@
                 },
                 {
                     "name": "ScroFansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://scrofansub.altervista.org"
@@ -1251,6 +1294,7 @@
                 },
                 {
                     "name": "Solo Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://sites.google.com/view/solofansub/home"
@@ -1271,6 +1315,7 @@
                 },
                 {
                     "name": "SpeedUp Fan Sub",
+                    "short_name": "",
                     "socials": [{
                         "type": "tg_channel",
                         "value": "https://t.me/SpeedUpFanSub"
@@ -1282,6 +1327,7 @@
                 },
                 {
                     "name": "SSA",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://ssafansub.altervista.org"
@@ -1306,6 +1352,7 @@
                 },
                 {
                     "name": "StratosAnime",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://stratosanime.forumcommunity.net"
@@ -1320,6 +1367,7 @@
                 },
                 {
                     "name": "SubZero",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://www.subzero.it"
@@ -1355,6 +1403,7 @@
                 },
                 {
                     "name": "STS Italia Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://sts-italiafansub.forumfree.it"
@@ -1379,6 +1428,7 @@
                 },
                 {
                     "name": "Tanoshimi no Sekai",
+                    "short_name": "TnS",
                     "socials": [{
                             "type": "web",
                             "value": "https://tnsfansub.com"
@@ -1409,6 +1459,7 @@
                 },
                 {
                     "name": "Tonkatsu Fansub",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://tonkatsufansub.com"
@@ -1431,6 +1482,7 @@
                 },
                 {
                     "name": "UMS",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://trackerums.altervista.org"
@@ -1458,6 +1510,7 @@
                 },
                 {
                     "name": "WeMakeStorm FANSUB",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://arashic.forumcommunity.net/?f=8671160"
@@ -1477,6 +1530,7 @@
                 },
                 {
                     "name": "WhineSubs",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://whinesubs.wordpress.com"
@@ -1500,7 +1554,8 @@
                     "selected": true
                 },
                 {
-                    "name": "Winds Of Subtitle - WOS",
+                    "name": "Winds Of Subtitle",
+                    "short_name": "WoS",
                     "socials": [{
                             "type": "web",
                             "value": "http://windsof.net"
@@ -1529,6 +1584,7 @@
                 },
                 {
                     "name": "Yaoi 801",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://www.yaoi801fansub.it"
@@ -1567,7 +1623,8 @@
                     "selected": true
                 },
                 {
-                    "name": "NIF Team",
+                    "name": "Naruto Italian Forum",
+                    "short_name": "NIF",
                     "socials": [{
                             "type": "web",
                             "value": "https://nifteam.forumcommunity.net"
@@ -1615,6 +1672,7 @@
                 },
                 {
                     "name": "OPF Italia",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "https://www.opfitalia.net"
@@ -1638,6 +1696,7 @@
             "name": "Recovers, Muxers and others",
             "groups": [{
                     "name": "BM Zone",
+                    "short_name": "",
                     "socials": [{
                             "type": "web",
                             "value": "http://bmzone.forumfree.it"
@@ -1658,6 +1717,7 @@
                 },
                 {
                     "name": "Recupero AAS",
+                    "short_name": "",
                     "socials": [{
                             "type": "tg_channel",
                             "value": "https://t.me/+TL9Og9viORc2N2Y0"
@@ -1674,6 +1734,7 @@
                 },
                 {
                     "name": "Ghegghe",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [{
                         "type": "nyaa",
@@ -1688,6 +1749,7 @@
                 },
                 {
                     "name": "Sante",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [{
                         "type": "nyaa",
@@ -1702,6 +1764,7 @@
                 },
                 {
                     "name": "JOKay_",
+                    "short_name": "JK",
                     "socials": [],
                     "torrent_sources": [{
                         "type": "nyaa",
@@ -1716,6 +1779,7 @@
                 },
                 {
                     "name": "ImFilippo",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [{
                         "type": "nyaa",
@@ -1730,6 +1794,7 @@
                 },
                 {
                     "name": "Salem85",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [{
                         "type": "nyaa",
@@ -1744,6 +1809,7 @@
                 },
                 {
                     "name": "stress",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [{
                         "type": "nyaa",
@@ -1762,6 +1828,7 @@
             "name": "Fansub Inattivi",
             "groups": [{
                     "name": "-ifi- Scan&Sub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://ifi.forumfree.it"
@@ -1773,6 +1840,7 @@
                 },
                 {
                     "name": "[devnull] Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.devnullfansub.org"
@@ -1784,6 +1852,7 @@
                 },
                 {
                     "name": "*Yo Yo FanSub*",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://yoyofansub.forumfree.it"
@@ -1795,6 +1864,7 @@
                 },
                 {
                     "name": "2D Lovers Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://2dloversfansub.forumcommunity.net"
@@ -1806,6 +1876,7 @@
                 },
                 {
                     "name": "2kawaii4u subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://2kawaii4u.moe"
@@ -1817,6 +1888,7 @@
                 },
                 {
                     "name": "3FS",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -1825,6 +1897,7 @@
                 },
                 {
                     "name": "3ngel",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -1833,6 +1906,7 @@
                 },
                 {
                     "name": "A.S.P. Crew",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -1841,6 +1915,7 @@
                 },
                 {
                     "name": "acK.it",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://ackit.altervista.org"
@@ -1852,6 +1927,7 @@
                 },
                 {
                     "name": "ADB Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -1860,6 +1936,7 @@
                 },
                 {
                     "name": "Agartha Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://agarthaforum.altervista.org/Forum"
@@ -1871,6 +1948,7 @@
                 },
                 {
                     "name": "AkaSubs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://akasubs.altervista.org"
@@ -1882,6 +1960,7 @@
                 },
                 {
                     "name": "Akit0",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -1890,6 +1969,7 @@
                 },
                 {
                     "name": "Akina Speed Dub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://akinaspeeddub.altervista.org"
@@ -1901,6 +1981,7 @@
                 },
                 {
                     "name": "Akindo",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.akindo.it"
@@ -1912,6 +1993,7 @@
                 },
                 {
                     "name": "Akuma Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://akuma-subs.com"
@@ -1923,6 +2005,7 @@
                 },
                 {
                     "name": "Aicchan",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -1931,6 +2014,7 @@
                 },
                 {
                     "name": "ale5000",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -1939,6 +2023,7 @@
                 },
                 {
                     "name": "AleFansubItalia - Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -1947,6 +2032,7 @@
                 },
                 {
                     "name": "AllGame Fansub 2.0",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://fansuballgame.altervista.org"
@@ -1958,6 +2044,7 @@
                 },
                 {
                     "name": "Am@",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -1966,6 +2053,7 @@
                 },
                 {
                     "name": "Amida Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://amida.altervista.org"
@@ -1977,6 +2065,7 @@
                 },
                 {
                     "name": "Angel Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://angelfansub.forumfree.it"
@@ -1988,6 +2077,7 @@
                 },
                 {
                     "name": "Anime Magic FanSub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://animemagicfansub.weebly.com"
@@ -1999,6 +2089,7 @@
                 },
                 {
                     "name": "AniDojo",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.anidojo.byethost13.com"
@@ -2010,6 +2101,7 @@
                 },
                 {
                     "name": "AnimeAngel",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2018,6 +2110,7 @@
                 },
                 {
                     "name": "Anime Central",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://animecentral.forumcommunity.net"
@@ -2029,6 +2122,7 @@
                 },
                 {
                     "name": "Anime-Dragoon",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2037,6 +2131,7 @@
                 },
                 {
                     "name": "Anime for Italian Fans",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2045,6 +2140,7 @@
                 },
                 {
                     "name": "Anime Forever Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2053,6 +2149,7 @@
                 },
                 {
                     "name": "Anime Kingdom",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://animekingdom0.blogspot.com"
@@ -2064,6 +2161,7 @@
                 },
                 {
                     "name": "Anime Manga Family Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://animemangafamily.forumcommunity.net"
@@ -2075,6 +2173,7 @@
                 },
                 {
                     "name": "Anime & Manga Universe Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://animemangauniverseforever.forumfree.it"
@@ -2086,6 +2185,7 @@
                 },
                 {
                     "name": "Anime no Koe",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2094,6 +2194,7 @@
                 },
                 {
                     "name": "Anime no Shinkon",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2102,6 +2203,7 @@
                 },
                 {
                     "name": "AnimeOne-Italia",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://aoneita.altervista.org"
@@ -2113,6 +2215,7 @@
                 },
                 {
                     "name": "AnimeOnline",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2121,6 +2224,7 @@
                 },
                 {
                     "name": "AnimePassion",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2129,6 +2233,7 @@
                 },
                 {
                     "name": "Animephobia",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://animephobia.net"
@@ -2140,6 +2245,7 @@
                 },
                 {
                     "name": "AnimeSaga",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2148,6 +2254,7 @@
                 },
                 {
                     "name": "Animetopia",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://animetopia.mw3italia.com/home"
@@ -2159,6 +2266,7 @@
                 },
                 {
                     "name": "AnimeUniverse",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2167,6 +2275,7 @@
                 },
                 {
                     "name": "Anime-up",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2175,6 +2284,7 @@
                 },
                 {
                     "name": "AnimeZer0",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.animezer0.com"
@@ -2186,6 +2296,7 @@
                 },
                 {
                     "name": "Aoi Neko Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://aoineko.forumcommunity.net"
@@ -2197,6 +2308,7 @@
                 },
                 {
                     "name": "AOL Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2205,6 +2317,7 @@
                 },
                 {
                     "name": "AOZERØ",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.aozer0.com"
@@ -2216,6 +2329,7 @@
                 },
                 {
                     "name": "Ap fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2224,6 +2338,7 @@
                 },
                 {
                     "name": "Arkham House",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2232,6 +2347,7 @@
                 },
                 {
                     "name": "ARTeam Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.animerevolutionteam.net/fansub"
@@ -2243,6 +2359,7 @@
                 },
                 {
                     "name": "Asgard",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://asgard.blogfree.net"
@@ -2254,6 +2371,7 @@
                 },
                 {
                     "name": "Ask fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2262,6 +2380,7 @@
                 },
                 {
                     "name": "Atmosphere Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.atmospherefansub.blogspot.com"
@@ -2273,6 +2392,7 @@
                 },
                 {
                     "name": "AWFansubs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://animewell.kadath.altervista.org/animewell"
@@ -2284,6 +2404,7 @@
                 },
                 {
                     "name": "Ayaku Crew",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://ayakufansub.org"
@@ -2295,6 +2416,7 @@
                 },
                 {
                     "name": "Ayame Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://ayamefansub.altervista.org/blog"
@@ -2306,6 +2428,7 @@
                 },
                 {
                     "name": "Baka no Shinkon",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2314,6 +2437,7 @@
                 },
                 {
                     "name": "Baka.Otaku Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2322,6 +2446,7 @@
                 },
                 {
                     "name": "BakaMitai Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://bakamitaifansub.forumfree.it"
@@ -2333,6 +2458,7 @@
                 },
                 {
                     "name": "BaKaTeAmBakawaii Studio",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2341,6 +2467,7 @@
                 },
                 {
                     "name": "Bakuman Fandub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2349,6 +2476,7 @@
                 },
                 {
                     "name": "Best Pornsub Ever",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://bestpornsubever.altervista.org/blog"
@@ -2360,6 +2488,7 @@
                 },
                 {
                     "name": "Bioparco",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://bioparco.mangani.me"
@@ -2371,6 +2500,7 @@
                 },
                 {
                     "name": "Blitzkrieg",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2379,6 +2509,7 @@
                 },
                 {
                     "name": "Blue Dragon FansubBonzo productions",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2387,6 +2518,7 @@
                 },
                 {
                     "name": "Brigate Takahashi",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.rumicworld.org"
@@ -2398,6 +2530,7 @@
                 },
                 {
                     "name": "C-BT Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2406,6 +2539,7 @@
                 },
                 {
                     "name": "Chibi Bisquit Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2414,6 +2548,7 @@
                 },
                 {
                     "name": "Chikubi Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2422,6 +2557,7 @@
                 },
                 {
                     "name": "Chrono Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://chronofansub.blogspot.com"
@@ -2433,6 +2569,7 @@
                 },
                 {
                     "name": "Clos Anime Fansubs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2441,6 +2578,7 @@
                 },
                 {
                     "name": "COG Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://clubgiappone.forumfree.it/?t=53763913"
@@ -2452,6 +2590,7 @@
                 },
                 {
                     "name": "ComedySubs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.comedysubs.org"
@@ -2463,6 +2602,7 @@
                 },
                 {
                     "name": "Crazy Anime Dub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2471,6 +2611,7 @@
                 },
                 {
                     "name": "Crazy for Anime",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2479,6 +2620,7 @@
                 },
                 {
                     "name": "Creative Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2487,6 +2629,7 @@
                 },
                 {
                     "name": "CUSY",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2495,6 +2638,7 @@
                 },
                 {
                     "name": "Craz IT eam",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://craziteam.biz"
@@ -2506,6 +2650,7 @@
                 },
                 {
                     "name": "CTH TRANSLATIONS FANSUB",
+                    "short_name": "CTH",
                     "socials": [{
                         "type": "tg_channel",
                         "value": "https://t.me/cthtranslations"
@@ -2517,6 +2662,7 @@
                 },
                 {
                     "name": "Dai no Ji",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://dainojisubs.wordpress.com"
@@ -2528,6 +2674,7 @@
                 },
                 {
                     "name": "Dream Trader Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://dreafan.wordpress.com"
@@ -2539,6 +2686,7 @@
                 },
                 {
                     "name": "Eien no Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://eiennofansub.blogspot.it"
@@ -2550,6 +2698,7 @@
                 },
                 {
                     "name": "Endless Eight Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://endlesseightfansub.blogspot.com"
@@ -2561,6 +2710,7 @@
                 },
                 {
                     "name": "FairyTail Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.ftfansub.net"
@@ -2572,6 +2722,7 @@
                 },
                 {
                     "name": "DangoFamilySub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://dangofamilysub.altervista.org/blog"
@@ -2583,6 +2734,7 @@
                 },
                 {
                     "name": "Dango Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://dangofansub.altervista.org"
@@ -2594,6 +2746,7 @@
                 },
                 {
                     "name": "DarkTrilogy Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2602,6 +2755,7 @@
                 },
                 {
                     "name": "Darkwind FSDark Phoenix Corporation",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2610,6 +2764,7 @@
                 },
                 {
                     "name": "DarkSideAnime",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2618,6 +2773,7 @@
                 },
                 {
                     "name": "Dark Skull",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://darkskull.forumcommunity.net"
@@ -2629,6 +2785,7 @@
                 },
                 {
                     "name": "Darkness FansubsDC Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2637,6 +2794,7 @@
                 },
                 {
                     "name": "Delirium Team Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.dtfansub.altervista.org"
@@ -2648,6 +2806,7 @@
                 },
                 {
                     "name": "Denki Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://denkifansub.forumcommunity.net"
@@ -2659,6 +2818,7 @@
                 },
                 {
                     "name": "Detective Conan Fans",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://animegate.it/sito"
@@ -2670,6 +2830,7 @@
                 },
                 {
                     "name": "dnotomista",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://dnotomista.forumattivo.com"
@@ -2681,6 +2842,7 @@
                 },
                 {
                     "name": "D.N. Team Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://dnfansubanime.blogspot.com"
@@ -2692,6 +2854,7 @@
                 },
                 {
                     "name": "Dragon Anime",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2700,6 +2863,7 @@
                 },
                 {
                     "name": "DTWenty Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://dtwenty.mangalair.com"
@@ -2711,6 +2875,7 @@
                 },
                 {
                     "name": "Ecchi no Kumiai",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.h-kumiai.com"
@@ -2722,6 +2887,7 @@
                 },
                 {
                     "name": "Eden Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2730,6 +2896,7 @@
                 },
                 {
                     "name": "Ellice Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2738,6 +2905,7 @@
                 },
                 {
                     "name": "Enigmateam",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://enigmateam2.0.forumcommunity.net"
@@ -2749,6 +2917,7 @@
                 },
                 {
                     "name": "EroKiriko -H.I.F-",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://erokihif.blogspot.com"
@@ -2760,6 +2929,7 @@
                 },
                 {
                     "name": "Extreme Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2768,6 +2938,7 @@
                 },
                 {
                     "name": "Falling Souls Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2776,6 +2947,7 @@
                 },
                 {
                     "name": "Fansub Hero",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://fansubhero.weebly.com"
@@ -2786,7 +2958,8 @@
                     "selected": true
                 },
                 {
-                    "name": "Fansub X 2 (FX2)",
+                    "name": "Fansub X 2",
+                    "short_name": "FX2",
                     "socials": [{
                         "type": "web",
                         "value": "http://fansubx2.wordpress.com"
@@ -2798,6 +2971,7 @@
                 },
                 {
                     "name": "Fate-Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.fate-subs.com"
@@ -2809,6 +2983,7 @@
                 },
                 {
                     "name": "Fenice Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://fenicefansub.forumfree.it"
@@ -2820,6 +2995,7 @@
                 },
                 {
                     "name": "Fire of Dragon",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2828,6 +3004,7 @@
                 },
                 {
                     "name": "Flip Them Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.flipthemsubs.net"
@@ -2839,6 +3016,7 @@
                 },
                 {
                     "name": "Fnanna Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://fnanna.mangalair.com"
@@ -2850,6 +3028,7 @@
                 },
                 {
                     "name": "Freedom Italian Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.freedomfansub.it"
@@ -2861,6 +3040,7 @@
                 },
                 {
                     "name": "FrozenDale",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.frozendale.com"
@@ -2872,6 +3052,7 @@
                 },
                 {
                     "name": "Frozen Zero Project",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2880,6 +3061,7 @@
                 },
                 {
                     "name": "Fuckin' Fansubbers Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2888,6 +3070,7 @@
                 },
                 {
                     "name": "FudoSubs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://fudosubs.blogspot.it"
@@ -2899,6 +3082,7 @@
                 },
                 {
                     "name": "Full Archive Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://fullarchive.forumcommunity.net"
@@ -2910,6 +3094,7 @@
                 },
                 {
                     "name": "Full Metal Alcholist",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2918,6 +3103,7 @@
                 },
                 {
                     "name": "FunFanFuckSub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2926,6 +3112,7 @@
                 },
                 {
                     "name": "Funny and Fantasy Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.fefs.it"
@@ -2940,6 +3127,7 @@
                 },
                 {
                     "name": "Futsujanai Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://futsujanai.altervista.org"
@@ -2951,6 +3139,7 @@
                 },
                 {
                     "name": "FY.it",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.fushigiyuugi.it"
@@ -2962,6 +3151,7 @@
                 },
                 {
                     "name": "Ganbatte Fansub Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -2970,6 +3160,7 @@
                 },
                 {
                     "name": "Genesis Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.genesisfansubs.it/index.php?GF=home"
@@ -2981,6 +3172,7 @@
                 },
                 {
                     "name": "Gitah",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://gitah.altervista.org/wp"
@@ -2992,6 +3184,7 @@
                 },
                 {
                     "name": "GnA",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3000,6 +3193,7 @@
                 },
                 {
                     "name": "GTO Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://gtosubs.blogspot.com"
@@ -3011,6 +3205,7 @@
                 },
                 {
                     "name": "H86 Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://h86fansub.altervista.org/Home"
@@ -3022,6 +3217,7 @@
                 },
                 {
                     "name": "Hakurei Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://hakureifansub.forumcommunity.net"
@@ -3033,6 +3229,7 @@
                 },
                 {
                     "name": "Harem Sub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://leondariokinganimesubita.altervista.org"
@@ -3044,6 +3241,7 @@
                 },
                 {
                     "name": "Hayate Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.hayatefansub.it"
@@ -3055,6 +3253,7 @@
                 },
                 {
                     "name": "hELL uNLEASHED",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3063,6 +3262,7 @@
                 },
                 {
                     "name": "Herp&Derp Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.retrofutureshock.com"
@@ -3074,6 +3274,7 @@
                 },
                 {
                     "name": "Hiiragi Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://hiiragi.splinder.com"
@@ -3085,6 +3286,7 @@
                 },
                 {
                     "name": "Hinata-Fansubs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3093,6 +3295,7 @@
                 },
                 {
                     "name": "Hitsuzen Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.hitsuzenfansub.net"
@@ -3104,6 +3307,7 @@
                 },
                 {
                     "name": "nG-ITP",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3112,6 +3316,7 @@
                 },
                 {
                     "name": "Hoshi FanSubs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.hoshifansubs.altervista.org"
@@ -3123,6 +3328,7 @@
                 },
                 {
                     "name": "HOTD FansubHQFansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3131,6 +3337,7 @@
                 },
                 {
                     "name": "hyron",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://hyron.altervista.org"
@@ -3142,6 +3349,7 @@
                 },
                 {
                     "name": "IBC-CIF",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://ibc-cif.splinder.com"
@@ -3153,6 +3361,7 @@
                 },
                 {
                     "name": "Ichigo.",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3161,6 +3370,7 @@
                 },
                 {
                     "name": "Idiocy Hunters Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://idiocyhunters.forumcommunity.net"
@@ -3172,6 +3382,7 @@
                 },
                 {
                     "name": "I KISS",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://ikissfansub.altervista.org"
@@ -3183,6 +3394,7 @@
                 },
                 {
                     "name": "Indastria",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3191,6 +3403,7 @@
                 },
                 {
                     "name": "Instantia Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://instantiafansub.wordpress.com"
@@ -3202,6 +3415,7 @@
                 },
                 {
                     "name": "iTaGLIani",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://itaglianifansub.interfree.it"
@@ -3213,6 +3427,7 @@
                 },
                 {
                     "name": "Italian Black Order",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3221,6 +3436,7 @@
                 },
                 {
                     "name": "ItaliAnime",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3229,6 +3445,7 @@
                 },
                 {
                     "name": "Italian Simple Subbing (ISS)",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://theissproject.altervista.org/index.php"
@@ -3240,6 +3457,7 @@
                 },
                 {
                     "name": "Italymanga (manga scan)",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3248,6 +3466,7 @@
                 },
                 {
                     "name": "ItaNeko Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3256,6 +3475,7 @@
                 },
                 {
                     "name": "Japon FansubsJargo",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3264,6 +3484,7 @@
                 },
                 {
                     "name": "Jargo & Kuririn",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3272,6 +3493,7 @@
                 },
                 {
                     "name": "Jargo & Slayn",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3280,6 +3502,7 @@
                 },
                 {
                     "name": "JB Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://jbfansub.altervista.org"
@@ -3291,6 +3514,7 @@
                 },
                 {
                     "name": "Jump Hentai Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3299,6 +3523,7 @@
                 },
                 {
                     "name": "JunbilnarKabocha Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3307,6 +3532,7 @@
                 },
                 {
                     "name": "Kamelot FanSub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3315,6 +3541,7 @@
                 },
                 {
                     "name": "Kamilisa",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://kamilisa.altervista.org"
@@ -3326,6 +3553,7 @@
                 },
                 {
                     "name": "Kanjisub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.kanjisub.com"
@@ -3337,6 +3565,7 @@
                 },
                 {
                     "name": "KappaFansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://kappafansub.altervista.org/sito"
@@ -3348,6 +3577,7 @@
                 },
                 {
                     "name": "Karanaze",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3356,6 +3586,7 @@
                 },
                 {
                     "name": "Kawaii Loli Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3363,7 +3594,25 @@
                     "selected": true
                 },
                 {
+                    "name": "Kazoku Team",
+                    "short_name": "KT",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://kazokuteam.forumfree.it/"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [{
+                            "type": "generic_rss",
+                            "value": "https://kazokuteam.forumfree.it/rss.php?c=834115"
+                        }
+                    ],
+                    "notes": "Confluiti nel Soul's Kazoku Team",
+                    "selected": true
+                },
+                {
                     "name": "Kemono Fansubs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3372,6 +3621,7 @@
                 },
                 {
                     "name": "Kenshin Gumi",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3380,6 +3630,7 @@
                 },
                 {
                     "name": "KFKiavik = vedi KPF Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3388,6 +3639,7 @@
                 },
                 {
                     "name": "Kiches Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3396,6 +3648,7 @@
                 },
                 {
                     "name": "Kikko75Kintama Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3404,6 +3657,7 @@
                 },
                 {
                     "name": "Kirino Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3412,6 +3666,7 @@
                 },
                 {
                     "name": "KissSub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3420,6 +3675,7 @@
                 },
                 {
                     "name": "Knights",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3428,6 +3684,7 @@
                 },
                 {
                     "name": "KODOMA Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.kodoma.altervista.org"
@@ -3439,6 +3696,7 @@
                 },
                 {
                     "name": "Kona Fansubs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3447,6 +3705,7 @@
                 },
                 {
                     "name": "Konoha Sennin Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://konohafansub.altervista.org"
@@ -3458,6 +3717,7 @@
                 },
                 {
                     "name": "Konzen's Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://konzensub.altervista.org"
@@ -3469,6 +3729,7 @@
                 },
                 {
                     "name": "Kotatsu Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://kotatsusubs.it"
@@ -3480,6 +3741,7 @@
                 },
                 {
                     "name": "KPF Team",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://kpfteam.blogspot.com"
@@ -3491,6 +3753,7 @@
                 },
                 {
                     "name": "Kumachi Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://kumachifansub.altervista.org/blog"
@@ -3502,6 +3765,7 @@
                 },
                 {
                     "name": "Kumo Crew Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://kcsubs.altervista.org"
@@ -3513,6 +3777,7 @@
                 },
                 {
                     "name": "Kurai Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://kuraifansub.altervista.org"
@@ -3524,6 +3789,7 @@
                 },
                 {
                     "name": "Kurai no Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://kurainofansub.forumcommunity.net"
@@ -3535,6 +3801,7 @@
                 },
                 {
                     "name": "Kurofune Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://kurofunesubs.blogspot.com"
@@ -3546,6 +3813,7 @@
                 },
                 {
                     "name": "Kuro no Sekai",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://kuronosekai.forumfree.it"
@@ -3557,6 +3825,7 @@
                 },
                 {
                     "name": "Kyaa Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.kyaa.it"
@@ -3568,6 +3837,7 @@
                 },
                 {
                     "name": "Kyoudai no Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3576,6 +3846,7 @@
                 },
                 {
                     "name": "Kyuubi no fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3584,6 +3855,7 @@
                 },
                 {
                     "name": "John Doe Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://johndoefansub.blogspot.com"
@@ -3595,6 +3867,7 @@
                 },
                 {
                     "name": "Jigoku Fansub Team",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.jigoku.it/jft"
@@ -3606,6 +3879,7 @@
                 },
                 {
                     "name": "Jinsei Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://jinseifansub.blogspot.com"
@@ -3617,6 +3891,7 @@
                 },
                 {
                     "name": "La Nazionale Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3625,6 +3900,7 @@
                 },
                 {
                     "name": "L&D",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3633,6 +3909,7 @@
                 },
                 {
                     "name": "Lawliet Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3641,6 +3918,7 @@
                 },
                 {
                     "name": "Lemon Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3649,6 +3927,7 @@
                 },
                 {
                     "name": "Light Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3657,6 +3936,7 @@
                 },
                 {
                     "name": "lighting fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3665,6 +3945,7 @@
                 },
                 {
                     "name": "LOGH Project",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://loghproject.blogspot.com"
@@ -3676,6 +3957,7 @@
                 },
                 {
                     "name": "Lords of Subs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3684,6 +3966,7 @@
                 },
                 {
                     "name": "LunaPark Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://lunaparksub.blogspot.com"
@@ -3695,6 +3978,7 @@
                 },
                 {
                     "name": "MadDownloader Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.madfansub.altervista.org"
@@ -3706,6 +3990,7 @@
                 },
                 {
                     "name": "Malygos Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3714,6 +3999,7 @@
                 },
                 {
                     "name": "MangAnimeCoffee",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3721,7 +4007,8 @@
                     "selected": true
                 },
                 {
-                    "name": "MangaAnimeSekai (MAS Fansub)",
+                    "name": "MangaAnimeSekai Fansub",
+                    "short_name": "MAS",
                     "socials": [{
                             "type": "web",
                             "value": "http://mangaanimesekai.netsons.org"
@@ -3752,6 +4039,7 @@
                 },
                 {
                     "name": "MangaDreamWorld",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.mangadreamworld.it"
@@ -3763,6 +4051,7 @@
                 },
                 {
                     "name": "Marcio Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://marciofansub.altervista.org"
@@ -3774,6 +4063,7 @@
                 },
                 {
                     "name": "MangaStory Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3782,6 +4072,7 @@
                 },
                 {
                     "name": "Maracuja Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://maracujafansub.blogspot.com"
@@ -3793,6 +4084,7 @@
                 },
                 {
                     "name": "Marxaid",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3801,6 +4093,7 @@
                 },
                 {
                     "name": "MFF Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3809,6 +4102,7 @@
                 },
                 {
                     "name": "Mizuiro Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://mizuirofansub.altervista.org"
@@ -3820,6 +4114,7 @@
                 },
                 {
                     "name": "MK Italian Subs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3828,6 +4123,7 @@
                 },
                 {
                     "name": "MMsubs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://mmsubs.forumcommunity.net"
@@ -3839,6 +4135,7 @@
                 },
                 {
                     "name": "MoD Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3847,6 +4144,7 @@
                 },
                 {
                     "name": "MT Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.mtfansub.com"
@@ -3858,6 +4156,7 @@
                 },
                 {
                     "name": "Mustafànsub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3866,6 +4165,7 @@
                 },
                 {
                     "name": "Mononoke",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3874,6 +4174,7 @@
                 },
                 {
                     "name": "MySubs™ TeAm",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3882,6 +4183,7 @@
                 },
                 {
                     "name": "Nanashi Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.nanashifansub.it"
@@ -3893,6 +4195,7 @@
                 },
                 {
                     "name": "NantokaSub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://yamatoworld.altervista.org"
@@ -3904,6 +4207,7 @@
                 },
                 {
                     "name": "NaruTeam",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://naruteamplus.altervista.org"
@@ -3915,6 +4219,7 @@
                 },
                 {
                     "name": "Nemesi Anime ProjectNeoAsiAnime",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3923,6 +4228,7 @@
                 },
                 {
                     "name": "Neo-Tokyo Anime",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://nta.altervista.org"
@@ -3934,6 +4240,7 @@
                 },
                 {
                     "name": "Nergal S",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3942,6 +4249,7 @@
                 },
                 {
                     "name": "New Team Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3950,6 +4258,7 @@
                 },
                 {
                     "name": "NNL Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.nnl-fansub.net"
@@ -3961,6 +4270,7 @@
                 },
                 {
                     "name": "Noctis Lucis Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://noctislucis.altervista.org/fansub"
@@ -3972,6 +4282,7 @@
                 },
                 {
                     "name": "No Name Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3980,6 +4291,7 @@
                 },
                 {
                     "name": "NoFunnyName",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://nofunnyname.blogspot.com"
@@ -3991,6 +4303,7 @@
                 },
                 {
                     "name": "NoHeavenTeam",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -3999,6 +4312,7 @@
                 },
                 {
                     "name": "OAF Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://oafansub.forumcommunity.net"
@@ -4010,6 +4324,7 @@
                 },
                 {
                     "name": "Oink!Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://bowlingballfansubs.it/oinksubs"
@@ -4021,6 +4336,7 @@
                 },
                 {
                     "name": "OmegaSub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4029,6 +4345,7 @@
                 },
                 {
                     "name": "Omoshiroi",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.omoshiroifansub.net/fusion"
@@ -4040,6 +4357,7 @@
                 },
                 {
                     "name": "OneTeamFansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4048,6 +4366,7 @@
                 },
                 {
                     "name": "Onibaku",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://onibakufansubs.altervista.org"
@@ -4059,6 +4378,7 @@
                 },
                 {
                     "name": "OpenSea Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://oki.altervista.org"
@@ -4070,6 +4390,7 @@
                 },
                 {
                     "name": "Oriente Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://orientefansub.blogfree.net"
@@ -4081,6 +4402,7 @@
                 },
                 {
                     "name": "OtacoSub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://msubweb.wordpress.com"
@@ -4092,6 +4414,7 @@
                 },
                 {
                     "name": "Otaking",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4100,6 +4423,7 @@
                 },
                 {
                     "name": "OtakuClub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://otakuclub.net/fansub.html"
@@ -4111,6 +4435,7 @@
                 },
                 {
                     "name": "OtakuMureFansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://otakumurefans.forumcommunity.net"
@@ -4122,6 +4447,7 @@
                 },
                 {
                     "name": "Otaku no Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://otaku-no-fansub.blogspot.com"
@@ -4133,6 +4459,7 @@
                 },
                 {
                     "name": "OtakuTrad",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.otakutrad.org/News"
@@ -4144,6 +4471,7 @@
                 },
                 {
                     "name": "P.O.N.I.E.S. Scanlations",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.ponies.altervista.org"
@@ -4155,6 +4483,7 @@
                 },
                 {
                     "name": "Pazuzu Fansubs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://utenti.multimania.it/pazuzufansub/pazuzu2.htm"
@@ -4166,6 +4495,7 @@
                 },
                 {
                     "name": "Perfume FanSub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://perfumefansub.blogfree.net"
@@ -4177,6 +4507,7 @@
                 },
                 {
                     "name": "Phoenix Fansub Italia",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4185,6 +4516,7 @@
                 },
                 {
                     "name": "Pijama Team Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://pijama.mangalair.com"
@@ -4196,6 +4528,7 @@
                 },
                 {
                     "name": "Pluschan Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://pluschan.lacumpa.biz"
@@ -4207,6 +4540,7 @@
                 },
                 {
                     "name": "pothosubs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4215,6 +4549,7 @@
                 },
                 {
                     "name": "Pretty Subs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4223,6 +4558,7 @@
                 },
                 {
                     "name": "Project Anime|Kyo",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4231,6 +4567,7 @@
                 },
                 {
                     "name": "Project-X",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4239,6 +4576,7 @@
                 },
                 {
                     "name": "Progetto ORO",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4247,6 +4585,7 @@
                 },
                 {
                     "name": "Psycho fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://psychofansub.blogspot.com"
@@ -4258,6 +4597,7 @@
                 },
                 {
                     "name": "PTP Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.ptpfansub.com/ptp/home.php"
@@ -4269,6 +4609,7 @@
                 },
                 {
                     "name": "Q-Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://q-subs.forumcommunity.net"
@@ -4280,6 +4621,7 @@
                 },
                 {
                     "name": "Radiata Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4288,6 +4630,7 @@
                 },
                 {
                     "name": "RANDOMFAGGOTS",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4296,6 +4639,7 @@
                 },
                 {
                     "name": "RAW³ Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://raw-fansub.forumfree.it"
@@ -4307,6 +4651,7 @@
                 },
                 {
                     "name": "RDL",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4315,6 +4660,7 @@
                 },
                 {
                     "name": "RedNives",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://rednives.forumcommunity.net"
@@ -4326,6 +4672,7 @@
                 },
                 {
                     "name": "ryo-kun",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4334,6 +4681,7 @@
                 },
                 {
                     "name": "Ryusan Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4342,6 +4690,7 @@
                 },
                 {
                     "name": "RF",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://reptiliafansub.wordpress.com"
@@ -4353,6 +4702,7 @@
                 },
                 {
                     "name": "Ryuichi",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4361,6 +4711,7 @@
                 },
                 {
                     "name": "Ryuu Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.ryuufansub.netsons.org/index.php"
@@ -4372,6 +4723,7 @@
                 },
                 {
                     "name": "Saimoe Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://saimoefansub.blogspot.com"
@@ -4383,6 +4735,7 @@
                 },
                 {
                     "name": "Sarulandia",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.sarulandia.it"
@@ -4394,6 +4747,7 @@
                 },
                 {
                     "name": "ShareFansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://sharefansub.altervista.org"
@@ -4405,6 +4759,7 @@
                 },
                 {
                     "name": "ShareFenix",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.sharefenix.com"
@@ -4416,6 +4771,7 @@
                 },
                 {
                     "name": "Shinsei-Kai",
+                    "short_name": "SSK",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.shinsei-kai.biz"
@@ -4430,6 +4786,7 @@
                 },
                 {
                     "name": "ShojoFansubs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4438,6 +4795,7 @@
                 },
                 {
                     "name": "Shotakon FansubSimply Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4446,6 +4804,7 @@
                 },
                 {
                     "name": "Sindaco Approved",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://sindacoapproved.wordpress.com"
@@ -4457,6 +4816,7 @@
                 },
                 {
                     "name": "Slay FansubsSmash Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4465,6 +4825,7 @@
                 },
                 {
                     "name": "Sonic Dream",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.sonicdream.it"
@@ -4475,7 +4836,40 @@
                     "selected": true
                 },
                 {
+                    "name": "Soul's Kazoku Team",
+                    "short_name": "SKTeam",
+                    "socials": [{
+                        "type": "web",
+                        "value": "https://soulkazokuteam.forumcommunity.net/"
+                    },
+                    {
+                        "type": "facebook",
+                        "value": "https://www.facebook.com/profile.php?id=100009206915035"
+                    },
+                    {
+                        "type": "link",
+                        "value": "htps://mangatoto.com/group/15696"
+                    }],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Soul's Sight Team",
+                    "short_name": "SST",
+                    "socials": [{
+                        "type": "web",
+                        "value": "https://soulsighteam.forumcommunity.net/"
+                    }],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "Confluiti nel Soul's Kazoku Team",
+                    "selected": true
+                },
+                {
                     "name": "SOW",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4484,6 +4878,7 @@
                 },
                 {
                     "name": "SpamSub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4492,6 +4887,7 @@
                 },
                 {
                     "name": "Stardust Crusaders Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://scfansub.xoom.it"
@@ -4503,6 +4899,7 @@
                 },
                 {
                     "name": "STARSUB",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.starsub.it"
@@ -4514,6 +4911,7 @@
                 },
                 {
                     "name": "Stella Fortunata Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4522,6 +4920,7 @@
                 },
                 {
                     "name": "stkProject",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4530,6 +4929,7 @@
                 },
                 {
                     "name": "STRAnoANIME",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://stranoanime.info"
@@ -4541,6 +4941,7 @@
                 },
                 {
                     "name": "SubIta.org",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4549,6 +4950,7 @@
                 },
                 {
                     "name": "StaRSubbeR",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://starsubber.it"
@@ -4560,6 +4962,7 @@
                 },
                 {
                     "name": "STKProject",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://web.archive.org/web/20040213053439/http://www.aal.cc/STKProject"
@@ -4571,6 +4974,7 @@
                 },
                 {
                     "name": "Task-Force",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://task-force.lacumpa.biz"
@@ -4582,6 +4986,7 @@
                 },
                 {
                     "name": "The Supremes",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.supremes.it"
@@ -4593,6 +4998,7 @@
                 },
                 {
                     "name": "Tomodachi no Crew",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://tomodachi.forumcommunity.net"
@@ -4604,6 +5010,7 @@
                 },
                 {
                     "name": "Submarine",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4612,6 +5019,7 @@
                 },
                 {
                     "name": "Sulfyzer Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4620,6 +5028,7 @@
                 },
                 {
                     "name": "Sunagakure no sato fansubs (SNS)",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4628,6 +5037,7 @@
                 },
                 {
                     "name": "SuperbiSqualo Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://superbisqualofansub.forumfree.it"
@@ -4639,6 +5049,7 @@
                 },
                 {
                     "name": "syao",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://syaochan.altervista.org"
@@ -4650,6 +5061,7 @@
                 },
                 {
                     "name": "Tanuki Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://tanuki-fansub.blogspot.com"
@@ -4661,6 +5073,7 @@
                 },
                 {
                     "name": "Tatsub TSB",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://tatsub.altervista.org"
@@ -4672,6 +5085,7 @@
                 },
                 {
                     "name": "TCJ Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4680,6 +5094,7 @@
                 },
                 {
                     "name": "Team GDM",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4688,6 +5103,7 @@
                 },
                 {
                     "name": "Teishoku Fanlab",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4696,6 +5112,7 @@
                 },
                 {
                     "name": "Tekken-Subs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4704,6 +5121,7 @@
                 },
                 {
                     "name": "Tengoku Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://tengokufansub.forumcommunity.net"
@@ -4715,6 +5133,7 @@
                 },
                 {
                     "name": "Tenshi Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://tenshi.netsons.org"
@@ -4726,6 +5145,7 @@
                 },
                 {
                     "name": "TheChanneler Fansubs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://thechanneler.blogspot.com"
@@ -4737,6 +5157,7 @@
                 },
                 {
                     "name": "TheSin",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://thesin.fansub.forumcommunity.net"
@@ -4748,6 +5169,7 @@
                 },
                 {
                     "name": "TNTFansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4756,6 +5178,7 @@
                 },
                 {
                     "name": "TS",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.thestarofthefansub.tk"
@@ -4767,6 +5190,7 @@
                 },
                 {
                     "name": "Tsukiyomi Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://tsukiyomifansub.forumcommunity.net"
@@ -4778,6 +5202,7 @@
                 },
                 {
                     "name": "Tsukotaku",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://tsukotakufansub.altervista.org/tsukotaku"
@@ -4789,6 +5214,7 @@
                 },
                 {
                     "name": "Tsukurimashou",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4797,6 +5223,7 @@
                 },
                 {
                     "name": "TuttoAnimeFF",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.tuttoanimeff.net"
@@ -4808,6 +5235,7 @@
                 },
                 {
                     "name": "UC-Cervello Team",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.uc-cervello.com"
@@ -4819,6 +5247,7 @@
                 },
                 {
                     "name": "U-ITP",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4827,6 +5256,7 @@
                 },
                 {
                     "name": "Undefined",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4835,6 +5265,7 @@
                 },
                 {
                     "name": "UnderWorld Subs",
+                    "short_name": "UWS",
                     "socials": [{
                         "type": "web",
                         "value": "http://underworldsubs.org"
@@ -4846,6 +5277,7 @@
                 },
                 {
                     "name": "Unlimited Fantasy Works",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://ufworks.it"
@@ -4857,6 +5289,7 @@
                 },
                 {
                     "name": "urahara",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4865,6 +5298,7 @@
                 },
                 {
                     "name": "Uranium Subs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://uraniumsubs.altervista.org/news.php"
@@ -4876,6 +5310,7 @@
                 },
                 {
                     "name": "Waarokku Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://waarokku.blogspot.com"
@@ -4887,6 +5322,7 @@
                 },
                 {
                     "name": "WakoKid & Co.",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://wakokid.altervista.org"
@@ -4898,6 +5334,7 @@
                 },
                 {
                     "name": "Weird Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://weirdpj.altervista.org/index.htm"
@@ -4909,6 +5346,7 @@
                 },
                 {
                     "name": "When The Cry Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://whentheycry.forumcommunity.net"
@@ -4920,6 +5358,7 @@
                 },
                 {
                     "name": "WhineSubs",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://whinesubs.wordpress.com"
@@ -4931,6 +5370,7 @@
                 },
                 {
                     "name": "White Universe Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.whiteuniverseteam.com"
@@ -4942,6 +5382,7 @@
                 },
                 {
                     "name": "WTF",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -4950,6 +5391,7 @@
                 },
                 {
                     "name": "Twilight Brigade",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.saintseiyarakuen.net/fansub"
@@ -4961,6 +5403,7 @@
                 },
                 {
                     "name": "UniversalCenturyItalia",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.universalcentury.it"
@@ -4972,6 +5415,7 @@
                 },
                 {
                     "name": "XIII's Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://xiiifansub.wordpress.com"
@@ -4983,6 +5427,7 @@
                 },
                 {
                     "name": "XUM",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.xuummm.co.cc"
@@ -4994,6 +5439,7 @@
                 },
                 {
                     "name": "YaoiLove",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.yaoilove.net/YaoiLove.htm"
@@ -5005,6 +5451,7 @@
                 },
                 {
                     "name": "YattaDragon",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://yattadragon.freehostia.com/index.php"
@@ -5016,6 +5463,7 @@
                 },
                 {
                     "name": "Zantetsuken",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5024,6 +5472,7 @@
                 },
                 {
                     "name": "Zetsubou Fansub",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://zetsubou.altervista.org"
@@ -5035,6 +5484,7 @@
                 },
                 {
                     "name": "Anime & Manga Fan World Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5043,6 +5493,7 @@
                 },
                 {
                     "name": "Ergo Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5051,6 +5502,7 @@
                 },
                 {
                     "name": "Haruna-chan Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5059,6 +5511,7 @@
                 },
                 {
                     "name": "I Matti del 93 Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5067,6 +5520,7 @@
                 },
                 {
                     "name": "MSF Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5075,6 +5529,7 @@
                 },
                 {
                     "name": "Nine Tails Team",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "http://akumasubs.lacumpa.biz/54-annunci-akuma/update/955-i-copyfratti-marziani.html"
@@ -5086,6 +5541,7 @@
                 },
                 {
                     "name": "VK Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5094,6 +5550,7 @@
                 },
                 {
                     "name": "Unbeatable Anime",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5102,6 +5559,7 @@
                 },
                 {
                     "name": "AnimeForce",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5110,6 +5568,7 @@
                 },
                 {
                     "name": "Anime Planet GdR",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5118,6 +5577,7 @@
                 },
                 {
                     "name": "Danger-zone Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5126,6 +5586,7 @@
                 },
                 {
                     "name": "Detective Conan Forum",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5134,6 +5595,7 @@
                 },
                 {
                     "name": "DPCrew Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5142,6 +5604,7 @@
                 },
                 {
                     "name": "DragonBallForever",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5150,6 +5613,7 @@
                 },
                 {
                     "name": "Fun on Screen",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5158,6 +5622,7 @@
                 },
                 {
                     "name": "NFS & Ninpou Fan Sub sembrano lo stesso gruppo, ma forse sono morti?",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5166,6 +5631,7 @@
                 },
                 {
                     "name": "NSR",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5174,6 +5640,7 @@
                 },
                 {
                     "name": "Saint Seiya GS = Terza Casa Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5182,6 +5649,7 @@
                 },
                 {
                     "name": "SeiReiTei Freedom Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5190,6 +5658,7 @@
                 },
                 {
                     "name": "Tenjou Tenge Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5198,6 +5667,7 @@
                 },
                 {
                     "name": "AMF Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5206,6 +5676,7 @@
                 },
                 {
                     "name": "5 Elementos Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5214,6 +5685,7 @@
                 },
                 {
                     "name": "Hentai for Italian Fans",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5222,6 +5694,7 @@
                 },
                 {
                     "name": "Italian Oniyuri",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5230,6 +5703,7 @@
                 },
                 {
                     "name": "MAE fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5238,6 +5712,7 @@
                 },
                 {
                     "name": "Oki Doki Scan Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5246,6 +5721,7 @@
                 },
                 {
                     "name": "Yatta Manga Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5254,6 +5730,7 @@
                 },
                 {
                     "name": "AnimeManga-ITA Subs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5262,6 +5739,7 @@
                 },
                 {
                     "name": "Animanga Club",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5270,6 +5748,7 @@
                 },
                 {
                     "name": "AnimeLab Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5278,6 +5757,7 @@
                 },
                 {
                     "name": "Animelo",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5286,6 +5766,7 @@
                 },
                 {
                     "name": "Ao no Exorcist Italian Forum",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5294,6 +5775,7 @@
                 },
                 {
                     "name": "Digimon Download",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5302,6 +5784,7 @@
                 },
                 {
                     "name": "EnjoyManga Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5310,6 +5793,7 @@
                 },
                 {
                     "name": "Fansub Magazine Italia",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5318,6 +5802,7 @@
                 },
                 {
                     "name": "HXHFF",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5326,6 +5811,7 @@
                 },
                 {
                     "name": "Italian Subs Addicted (ITASA)",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5334,6 +5820,7 @@
                 },
                 {
                     "name": "Mangabar Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5342,6 +5829,7 @@
                 },
                 {
                     "name": "NarutoShippudenStorm",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5350,6 +5838,7 @@
                 },
                 {
                     "name": "NFI Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5357,7 +5846,8 @@
                     "selected": true
                 },
                 {
-                    "name": "Onepieceshinsekai OPS",
+                    "name": "Onepieceshinsekai",
+                    "short_name": "OPS",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5366,6 +5856,7 @@
                 },
                 {
                     "name": "Pow@Subs",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5374,6 +5865,7 @@
                 },
                 {
                     "name": "Raftel Island",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5382,6 +5874,7 @@
                 },
                 {
                     "name": "Revolution Team",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5390,6 +5883,7 @@
                 },
                 {
                     "name": "SeiReiTei Freedom Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5398,6 +5892,7 @@
                 },
                 {
                     "name": "Ulabs Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5406,6 +5901,7 @@
                 },
                 {
                     "name": "WAXFansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5414,6 +5910,7 @@
                 },
                 {
                     "name": "XinsideX Fansub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
@@ -5422,6 +5919,7 @@
                 },
                 {
                     "name": "xKanji",
+                    "short_name": "",
                     "socials": [{
                         "type": "web",
                         "value": "https://xkanji.wordpress.com"
@@ -5433,6 +5931,7 @@
                 },
                 {
                     "name": "Yukiko FanSub",
+                    "short_name": "",
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
