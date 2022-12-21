@@ -2,7 +2,8 @@
 
 async function loadData() {
     //load fansub data
-    let url = `./data/fansubList.json?time=${Date.now()}`;
+    //let url = `./data/fansubList.json?time=${Date.now()}`;
+    let url = `https://raw.githubusercontent.com/nekonyan14986/ifs_italian_fansub_search/master/data/fansubList.json?time=${Date.now()}`;
     //let url = `./data/fansubList_small.json?time=${Date.now()}`;
     await fetch(url)
         .then(response => response.json())
@@ -14,7 +15,8 @@ async function loadData() {
 
 async function loadIcons() {
     //load fansub data
-    let url = `./data/types.json?time=${Date.now()}`;
+    //let url = `./data/types.json?time=${Date.now()}`;
+    let url = `https://raw.githubusercontent.com/nekonyan14986/ifs_italian_fansub_search/master/data/types.json?time=${Date.now()}`;
     await fetch(url)
         .then(response => response.json())
         .then(data => {
