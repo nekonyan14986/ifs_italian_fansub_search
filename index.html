@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+    <title>IFS - Italian Fansub Search</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body onload="ifs_main()">
+    <header>
+        <h1 style="text-align: center;">IFS - Italian Fansub Search</h1>
+        <p>
+            Questo tool nasce per cercare di semplificare la ricerca di titoli all'interno del panorama fansub italiano.</br>
+            Ovviamente esistono fansubdb, socialanime e diversi altri, ma spesso non tutto &egrave; listato.</br>
+            IFS genera dei link di ricerca google per i fabsub e le tipologie selezionate.</br>
+            I link generati saranno pi&ugrave; di uno se i siti selezionati sono > 32(limitazione degli operatori di ricerca di google).</br>
+            Cliccandoci si verr&agrave; redirezionati ad una pagina di ricerca google.</br>
+            L'utlizzo prolungato di questo tipo di ricerca far&agrave; scattare le misure di protezione anti bot di google. Baster&agrave; provare di non essere un bot per continuare ad usare il tool.</br>
+            Poich&eacute; i risultati della ricerca dipendono strettamente dall'indicizzazione di google, dal formato dei siti dei fansub e da come sono scritti i post dei vari annunci, la ricerca potrebbe dare risultati incompleti.</br>
+            Nelle tabelle sottostanti sono riportati i riferimenti e link dei fansub (attivi e non) e di vari attori che operano nel panorama italiano.</br>
+            Si ringrazia immensamente Vaz per aver stilato la <a href="https://recensubshq.forumfree.it/?t=58293588" target="_blank">lista iniziale</a> dei fansub.</br>
+            Il codice e i dati dei fansub sono disponibili su <a href="https://github.com/" target="_blank">github</a>.
+        </p>
+        <p>
+            Ultimo aggiornamento dei dati <b><span id="info"></span></b>
+        </p>
+    </header>
+
+    <form action="" onsubmit="event.preventDefault(); build_search();" style="display: grid; place-items: center;">
+        <input id="query_box" name="query_box" type="search" role="search" placeholder="Titolo dell'anime..." required style="min-width: 70vw; min-height: 5vh; border-radius: 0.5rem; border: 0; padding: 0 1.6rem; font-size: 1rem;">
+        <div>
+            <input type="checkbox" id="web" checked="true">Web
+            <input type="checkbox" id="torrent" checked="true">Torrent
+        </div>
+        <input type="submit" value="Cerca" style="min-width: 20vw;min-height: 5vh;background-image: linear-gradient(-180deg, #37AEE2 0%, #1E96C8 100%);border-radius: 0.5rem;box-sizing: border-box;color: #FFFFFF;display: flex;font-size: 1.2rem;justify-content: center;padding: 1rem 1.75rem;text-decoration: none;border: 0;cursor: pointer;">
+    </form>
+
+    <div class="divResults" id="divResults" hidden>
+        <h3>Cliccare sui link per i risultati della ricerca</h3>
+        </br>
+    </div>
+    <div class="divResultsLinks" id="divResultsLinks" hidden style="display: flex;justify-content: center;align-items: center;flex-wrap: wrap;">
+
+    </div>
+
+
+    <div class="content">
+        <div class="row" style="justify-content: center;margin:0">
+        </div>
+    </div>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

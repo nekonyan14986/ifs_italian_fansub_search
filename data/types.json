@@ -1,0 +1,79 @@
+{
+    "anidex": {
+        "image": "anidex.png",
+        "name": "Anidex"
+    },
+    "dailymotion": {
+        "image": "dailymotion.png",
+        "name": "Dailymotion"
+    },
+    "discord": {
+        "image": "discord.png",
+        "name": "Discord"
+    },
+    "facebook": {
+        "image": "facebook.png",
+        "name": "Facebook"
+    },
+    "github": {
+        "image": "github.png",
+        "name": "Github"
+    },
+    "instagram": {
+        "image": "instagram.png",
+        "name": "Instragram"
+    },
+    "link": {
+        "image": "link.png",
+        "name": ""
+    },
+    "nyaa": {
+        "image": "nyaa.png",
+        "name": "Nyaa"
+    },
+    "generic_rss": {
+        "image": "rss.png",
+        "name": "RSS"
+    },
+    "skype": {
+        "image": "skype.png",
+        "name": "Skype"
+    },
+    "tg_group": {
+        "image": "telegram.png",
+        "name": "Telegram"
+    },
+    "tg_channel": {
+        "image": "telegram.png",
+        "name": "Telegram"
+    },
+    "tg_generic": {
+        "image": "telegram.png",
+        "name": "Telegram"
+    },
+    "tiktok": {
+        "image": "tiktok.png",
+        "name": "TikTok"
+    },
+    "torrent": {
+        "image": "torrent.png",
+        "name": "Torrent"
+    },
+    "twitter": {
+        "image": "twitter.png",
+        "name": "Twitter"
+    },
+    "wattpad": {
+        "image": "wattpad.png",
+        "name": "Wattpad"
+    },
+    "web": {
+        "image": "web.png",
+        "name": "Sito"
+    },
+    "youtube": {
+        "image": "youtube.png",
+        "name": "YouTube"
+    }
+
+}
