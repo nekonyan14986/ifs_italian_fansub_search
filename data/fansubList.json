@@ -22,7 +22,7 @@
                     "selected": true
                 },
                 {
-                    "name": "Anime Legacy ~ Fansub",
+                    "name": "Anime Legacy Fansub",
                     "short_name": "",
                     "socials": [{
                             "type": "web",
@@ -627,7 +627,7 @@
                 },
                 {
                     "name": "Kazuto Fansub Ita",
-                    "short_name": "[K.F.S]",
+                    "short_name": "K.F.S",
                     "socials": [{
                         "type": "tg_channel",
                         "value": "https://t.me/KazutoFanSub"
