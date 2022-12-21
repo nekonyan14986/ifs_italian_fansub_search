@@ -162,10 +162,22 @@ function normalize_link(link) {
     return link.replace("https://www.", '').replace("http://www.", '').replace("https://", '').replace("http://", '').replace("www.", '');
 }
 
+function pre_build(){
+    let destDiv = document.getElementById("divResultsLinks");
+    destDiv.innerHTML = "";
+    let p = document.createElement("p");
+    p.innerText = "Creazione links...";
+    destDiv.appendChild(p)
+    setTimeout(build_search, 300)
+}
+
 function build_search() {
     let do_web = document.getElementById("web").checked
     let do_torrent = document.getElementById("torrent").checked
     let search_term = document.getElementById("query_box").value
+    let destDiv = document.getElementById("divResultsLinks");
+    destDiv.innerHTML = "";
+
 
     let website_list = []
 
@@ -192,9 +204,6 @@ function build_search() {
             }
         });
     }
-
-    let destDiv = document.getElementById("divResultsLinks");
-    destDiv.innerHTML = "";
 
     //console.log(website_list)
     const chunkSize = 30;
