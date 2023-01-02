@@ -212,9 +212,9 @@ function build_search() {
 
     //console.log(website_list)
 
-    // chunk size must be dynamic -> (32 - number of search words)
+    // chunk size must be dynamic -> (32 - number of search words) -> 32 lowered to 30 to avoid false skip by google
     let wordcount = search_term.trim().split(/\s+/).length
-    let chunkSize = 32 - wordcount;
+    let chunkSize = 30 - wordcount;
     let chunk_num = 1;
     for (let i = 0; i < website_list.length; i += chunkSize) {
         const chunk = website_list.slice(i, i + chunkSize);

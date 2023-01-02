@@ -1,5 +1,5 @@
 {
-    "last_update": "2022-12-19",
+    "last_update": "2023-01-02",
     "data": {
         "alive": {
             "name": "Fansub Attivi",
@@ -164,6 +164,43 @@
                         "type": "nyaa",
                         "value": "https://nyaa.si/?page=rss&u=kashim"
                     }],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Bleach Anime Manga",
+                    "short_name": "BAM",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://bam.forumcommunity.net/"
+                        },
+                        {
+                            "type": "facebook",
+                            "value": "https://www.facebook.com/people/BAM-Bleach-Anime-Manga/100067975148201/"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/BAMForum"
+                        },
+                        {
+                            "type": "web",
+                            "value": "https://blog.libero.it/wp/animelovers"
+                        },
+                        {
+                            "type": "web",
+                            "value": "http://www.bleachanimemanga.org"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [{
+                        "type": "generic_rss",
+                        "value": "https://bam.forumcommunity.net/rss.php?c=657801"
+                    },
+                    {
+                        "type": "generic_rss",
+                        "value": "https://bam.forumcommunity.net/rss.php?c=657801&src=tag"
+                    }
+                ],
                     "notes": "",
                     "selected": true
                 },
@@ -924,6 +961,19 @@
                         "type": "nyaa",
                         "value": "https://nyaa.si/?page=rss&u=Omnivium"
                     }],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "One Shot Anime Sub",
+                    "short_name": "OS,OSAF,OSAS",
+                    "socials": [{
+                            "type": "tg_channel",
+                            "value": "https://t.me/OneShotAnimeSub"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
                     "notes": "",
                     "selected": true
                 },
@@ -1821,6 +1871,21 @@
                     }],
                     "notes": "",
                     "selected": true
+                },
+                {
+                    "name": "Maleno85 T7ST",
+                    "short_name": "",
+                    "socials": [],
+                    "torrent_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/user/Giss"
+                    }],
+                    "rss_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/?page=rss&u=Giss"
+                    }],
+                    "notes": "",
+                    "selected": true
                 }
             ]
         },
@@ -2495,6 +2560,23 @@
                     }],
                     "torrent_sources": [],
                     "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Bleach Fansub",
+                    "short_name": "BF",
+                    "socials": [{
+                        "type": "web",
+                        "value": "https://bleachfansub.forumfree.it"
+                    }],
+                    "torrent_sources": [],
+                    "rss_sources": [
+                        {
+                            "type":"generic_rss",
+                            "value":"https://bleachfansub.forumfree.it/rss.php?c=405893"
+                        }
+                    ],
                     "notes": "",
                     "selected": true
                 },
