@@ -1,5 +1,5 @@
 {
-    "last_update": "2023-01-02",
+    "last_update": "2023-01-09",
     "data": {
         "alive": {
             "name": "Fansub Attivi",
@@ -134,6 +134,20 @@
                         }
                     ],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Beyond The Ataraxia",
+                    "short_name": "BTA",
+                    "socials": [
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/beyondtheataraxia"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "Unione di Beyond The Horizon(BTH) e ItAraxia",
                     "selected": true
                 },
                 {
@@ -629,6 +643,52 @@
                         }
                     ],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "ItAraxia",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://itataraxia.altervista.org"
+                        },
+                        {
+                            "type": "web",
+                            "value": "https://itatarxia.forumfree.it"
+                        },
+                        {
+                            "type": "facebook",
+                            "value": "https://www.facebook.com/Itataraxia"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.gg/cMUqWSx"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/joinchat/C-bQZBb2KHx4ixThUzR8jA"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/itataraxiascan"
+                        },
+                        {
+                            "type": "tg_group",
+                            "value": "https://t.me/itataraxiagroupn"
+                        },
+                        {
+                            "type": "link",
+                            "value": "https://linktr.ee/Itataraxia_"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [
+                        {
+                            "type": "generic_rss",
+                            "value": "https://itatarxia.forumfree.it/rss.php?c=1069122"
+                        }
+                    ],
+                    "notes": "Confluiti in Beyond The Ataraxia",
                     "selected": true
                 },
                 {
@@ -1193,31 +1253,6 @@
                     "selected": true
                 },
                 {
-                    "name": "Re:Sub",
-                    "short_name": "",
-                    "socials": [{
-                            "type": "web",
-                            "value": "https://refansub550269117.wordpress.com"
-                        },
-                        {
-                            "type": "instagram",
-                            "value": "https://www.instagram.com/resub_ita"
-                        },
-                        {
-                            "type": "tg_channel",
-                            "value": "https://t.me/resub_ita"
-                        },
-                        {
-                            "type": "link",
-                            "value": "https://refansubita.wordpress.com"
-                        }
-                    ],
-                    "torrent_sources": [],
-                    "rss_sources": [],
-                    "notes": "",
-                    "selected": true
-                },
-                {
                     "name": "Rorro Ranobe",
                     "short_name": "",
                     "socials": [{
@@ -1604,6 +1639,44 @@
                     "selected": true
                 },
                 {
+                    "name": "Winds Of Re:Sub",
+                    "short_name": "WoR",
+                    "socials": [
+                        {
+                            "type": "web",
+                            "value": "https://windsofresub.com"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/WindsOfResub"
+                        },
+                        {
+                            "type": "tg_group",
+                            "value": "https://t.me/c/1249765470"
+                        },
+                        {
+                            "type": "tg_group",
+                            "value": "https://t.me/+S8LbMDJnlhmOvGsb"
+                        },
+                        {
+                            "type": "tg_generic",
+                            "value": "https://t.me/WindsOfMusic"
+                        },
+                        {
+                            "type": "tg_generic",
+                            "value": "https://t.me/WindsOfManga"
+                        },
+                        {
+                            "type": "instagram",
+                            "value": "https://www.instagram.com/winds_of_resub"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "Unione di Winds Of Subtitle[WoS] e Re:Sub",
+                    "selected": true
+                },
+                {
                     "name": "Winds Of Subtitle",
                     "short_name": "WoS",
                     "socials": [{
@@ -1629,7 +1702,7 @@
                     ],
                     "torrent_sources": [],
                     "rss_sources": [],
-                    "notes": "",
+                    "notes": "Confluiti in Winds Of Re:Sub",
                     "selected": true
                 },
                 {
@@ -2549,6 +2622,23 @@
                     "torrent_sources": [],
                     "rss_sources": [],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Beyond The Horizon",
+                    "short_name": "BTH",
+                    "socials": [{
+                            "type": "tg_channel",
+                            "value": "https://t.me/beyondthehorizonnn"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.gg/HHsKCPtJ"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "Confluiti in Beyond The Ataraxia",
                     "selected": true
                 },
                 {
@@ -4738,6 +4828,35 @@
                     "torrent_sources": [],
                     "rss_sources": [],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Re:Sub",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://refansub550269117.wordpress.com"
+                        },
+                        {
+                            "type": "instagram",
+                            "value": "https://www.instagram.com/resub_ita"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/resub_ita"
+                        },
+                        {
+                            "type": "web",
+                            "value": "https://refansubita.wordpress.com"
+                        },
+                        {
+                            "type": "web",
+                            "value": "https://www.resub.cloud"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "Confluiti in Winds Of Re:Sub",
                     "selected": true
                 },
                 {
