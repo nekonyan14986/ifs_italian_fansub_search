@@ -1514,7 +1514,8 @@
                 {
                     "name": "Tanoshimi no Sekai",
                     "short_name": "TnS",
-                    "socials": [{
+                    "socials": [
+                        {
                             "type": "web",
                             "value": "https://tnsfansub.com"
                         },
@@ -1529,6 +1530,10 @@
                         {
                             "type": "youtube",
                             "value": "https://www.youtube.com/channel/UC6j9vQ3Dhm4szf60pTae83A"
+                        },
+                        {
+                            "type": "web",
+                            "value": "http://tnsfansub.altervista.org"
                         }
                     ],
                     "torrent_sources": [{
@@ -4607,10 +4612,14 @@
                 },
                 {
                     "name": "OtakuMureFansub",
-                    "short_name": "",
+                    "short_name": "OMF",
                     "socials": [{
                         "type": "web",
                         "value": "http://otakumurefans.forumcommunity.net"
+                    },
+                    {
+                        "type": "web",
+                        "value": "http://www.otakumurefansub.net"
                     }],
                     "torrent_sources": [],
                     "rss_sources": [],
