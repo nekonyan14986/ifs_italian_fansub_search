@@ -1060,6 +1060,20 @@
                     "selected": true
                 },
                 {
+                    "name": "Neko [Fansub]",
+                    "short_name": "",
+                    "socials": [
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/NEKO_Fansub"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
                     "name": "Norowa-sensei",
                     "short_name": "",
                     "socials": [{
@@ -1230,6 +1244,27 @@
                     "selected": true
                 },
                 {
+                    "name": "Pretty Sub",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://prettysub.blogspot.com"
+                        },
+                        {
+                            "type": "facebook",
+                            "value": "https://www.facebook.com/profile.php?id=100083186727660"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/PrettySub"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
                     "name": "Rakuen Subs",
                     "short_name": "",
                     "socials": [{
@@ -1267,7 +1302,7 @@
                             "value": "https://anidex.info/rss/group/95"
                         }
                     ],
-                    "notes": "",
+                    "notes": "Il sito è down e non verrà ricaricato nel breve. Valuteremo nel prossimo aggiornamento se passarli in Dead.",
                     "selected": true
                 },
                 {
@@ -1338,6 +1373,40 @@
                         {
                             "type": "generic_rss",
                             "value": "https://ramaorientalfansub.forumfree.it/rss.php?c=1062104&src=tag"
+                        }
+                    ],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Rare Subs",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://raresubs.forumfree.it/"
+                        },
+                        {
+                            "type": "facebook",
+                            "value": "https://www.facebook.com/raresubsofficial"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/RareSubs"
+                        },
+                        {
+                            "type": "youtube",
+                            "value": "https://www.youtube.com/channel/UCys1lx38j3_fFW7zXdRIbLg"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [
+                        {
+                            "type": "generic_rss",
+                            "value": "https://script.forumfree.it:5000/?customShout=&forum=raresubs.forumfree.it&rss=raresubs.forumfree.it.xml"
+                        },
+                        {
+                            "type": "generic_rss",
+                            "value": "https://raresubs.forumfree.it/rss.php?c=1009562"
                         }
                     ],
                     "notes": "",
@@ -3436,7 +3505,7 @@
                 },
                 {
                     "name": "Funny and Fantasy Subs",
-                    "short_name": "",
+                    "short_name": "F&Fs",
                     "socials": [{
                         "type": "web",
                         "value": "http://www.fefs.it"
