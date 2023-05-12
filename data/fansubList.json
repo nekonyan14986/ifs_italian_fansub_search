@@ -1,9 +1,10 @@
 {
-    "last_update": "2023-01-09",
+    "last_update": "2023-05-12",
     "data": {
         "alive": {
             "name": "Fansub Attivi",
-            "groups": [{
+            "groups": [
+                {
                     "name": "Aegi Stranding",
                     "short_name": "Aegi",
                     "socials": [{
@@ -17,6 +18,42 @@
                     "rss_sources": [{
                         "type": "nyaa",
                         "value": "https://nyaa.si/?page=rss&u=Yokoshima"
+                    }],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Alessandro Fansub",
+                    "short_name": "",
+                    "socials": [
+                        {
+                            "type": "web",
+                            "value": "https://alessandrofansub.altervista.org"
+                        },
+                        {
+                            "type": "youtube",
+                            "value": "https://www.youtube.com/channel/UCX1725vYDfo3sJNHtXWtr3A"
+                        },
+                        {
+                            "type": "twitter",
+                            "value": "https://twitter.com/AlessandroCH__"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.com/invite/ZabbxcbVtZ"
+                        },
+                        {
+                            "type": "link",
+                            "value": "https://www.twitch.tv/alessandroch_"
+                        }
+                    ],
+                    "torrent_sources": [{
+                        "type": "anidex",
+                        "value": "https://anidex.info/user/23632"
+                    }],
+                    "rss_sources": [{
+                        "type": "anidex",
+                        "value": "https://anidex.info/rss/user/23632"
                     }],
                     "notes": "",
                     "selected": true
@@ -438,6 +475,24 @@
                     "selected": true
                 },
                 {
+                    "name": "Edens Zero Italia",
+                    "short_name": "",
+                    "socials": [
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/edenszeroitalia"
+                        },
+                        {
+                            "type": "tg_group",
+                            "value": "https://t.me/edenszeroitachat"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
                     "name": "Emblem-Subs",
                     "short_name": "",
                     "socials": [{
@@ -466,6 +521,19 @@
                             "value": "https://nyaa.si/?page=rss&u=Emblem-Subs"
                         }
                     ],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Ericchi Fansub",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "tg_channel",
+                            "value": "https://t.me/EricchiFansub"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
                     "notes": "",
                     "selected": true
                 },
@@ -549,6 +617,19 @@
                             "value": "https://nyaa.si/?page=rss&u=Hanasaku"
                         }
                     ],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "HonyakuSubs",
+                    "short_name": "HS",
+                    "socials": [{
+                            "type": "tg_channel",
+                            "value": "https://t.me/HonyakuSubs"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
                     "notes": "",
                     "selected": true
                 },
@@ -851,10 +932,16 @@
                             "value": "https://discord.gg/6YtWkBE"
                         }
                     ],
-                    "torrent_sources": [{
-                        "type": "nyaa",
-                        "value": "https://nyaa.si/user/Rinkana"
-                    }],
+                    "torrent_sources": [
+                        {
+                            "type": "nyaa",
+                            "value": "https://nyaa.si/user/Rinkana"
+                        },
+                        {
+                            "type": "nyaa",
+                            "value": "https://sukebei.nyaa.si/user/Rinkana"
+                        }
+                    ],
                     "rss_sources": [{
                             "type": "generic_rss",
                             "value": "http://lovelysubs.weebly.com/1/feed"
@@ -862,9 +949,13 @@
                         {
                             "type": "nyaa",
                             "value": "https://nyaa.si/?page=rss&u=Rinkana"
+                        },
+                        {
+                            "type": "nyaa",
+                            "value": "https://sukebei.nyaa.si/?page=rss&u=Rinkana"
                         }
                     ],
-                    "notes": "",
+                    "notes": "Il sito è down e non verrà più attivato. Rimarranno attivi su facebook, discord, nyaa e sukebei.",
                     "selected": true
                 },
                 {
@@ -1374,6 +1465,62 @@
                     ],
                     "torrent_sources": [],
                     "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Setsugen no Fansub",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://fansub.setsugen.dev/"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/setsugennofansub"
+                        },
+                        {
+                            "type": "tg_generic",
+                            "value": "https://t.me/RitteruDemon69"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.com/invite/5JfNQepQ"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.com/invite/wCq5scYejA"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://fansub.setsugen.dev/discord"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.setsugen.dev/fansub"
+                        },
+                        {
+                            "type": "link",
+                            "value": "https://anidb.net/group/16501"
+                        },
+                        {
+                            "type": "link",
+                            "value": "https://anidb.net/user/892784"
+                        },
+                        {
+                            "type": "link",
+                            "value": "https://anilist.co/user/Setsugennoao"
+                        }
+
+                    ],
+                    "torrent_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/user/Setsugennoao"
+                    }],
+                    "rss_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/?page=rss&u=Setsugennoao"
+                    }],
                     "notes": "",
                     "selected": true
                 },
