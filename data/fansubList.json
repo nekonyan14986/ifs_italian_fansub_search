@@ -5,6 +5,36 @@
             "name": "Fansub Attivi",
             "groups": [
                 {
+                    "name": "80voglia Fansub",
+                    "short_name": "80VF",
+                    "socials": [
+                        {
+                            "type": "web",
+                            "value": "https://www.80vogliadihentai.it/"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/real80vogliaFansub"
+                        },
+                        {
+                            "type": "tg_group",
+                            "value": "https://t.me/real80vogliaFansub"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.com/invite/5AFbrzX"
+                        },
+                        {
+                            "type": "twitter",
+                            "value": "https://twitter.com/80VogliadiHent"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "Ex 80vogliadihentai. Rebranding in corso.",
+                    "selected": true
+                },
+                {
                     "name": "Aegi Stranding",
                     "short_name": "Aegi",
                     "socials": [{
@@ -623,14 +653,52 @@
                 {
                     "name": "HonyakuSubs",
                     "short_name": "HS",
-                    "socials": [{
+                    "socials": [
+                        {
                             "type": "tg_channel",
                             "value": "https://t.me/HonyakuSubs"
+                        },
+                        {
+                            "type": "tg_group",
+                            "value": "https://t.me/HonyakuSubsGroup"
                         }
                     ],
                     "torrent_sources": [],
                     "rss_sources": [],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Hoshikage Fansub",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "instagram",
+                            "value": "https://instagram.com/anime_otaku_consigli?igshid=YmMyMTA2M2Y="
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/HoshikageFansub"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/HoshikageFansubBlack"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/OtakusFansub21"
+                        },
+                        {
+                            "type": "tg_generic",
+                            "value": "https://t.me/Collect_yours_waifus_bot"
+                        },
+                        {
+                            "type": "tg_generic",
+                            "value": "https://t.me/CollectComms"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "Ex. Otaku's Fansub",
                     "selected": true
                 },
                 {
@@ -919,9 +987,10 @@
                 {
                     "name": "LovelySubs",
                     "short_name": "LS",
-                    "socials": [{
+                    "socials": [
+                        {
                             "type": "web",
-                            "value": "http://lovelysubs.weebly.com"
+                            "value": "https://lovelysubs4.wordpress.com/"
                         },
                         {
                             "type": "facebook",
@@ -930,6 +999,10 @@
                         {
                             "type": "discord",
                             "value": "https://discord.gg/6YtWkBE"
+                        },
+                        {
+                            "type": "web",
+                            "value": "http://lovelysubs.weebly.com"
                         }
                     ],
                     "torrent_sources": [
@@ -955,7 +1028,7 @@
                             "value": "https://sukebei.nyaa.si/?page=rss&u=Rinkana"
                         }
                     ],
-                    "notes": "Il sito è down e non verrà più attivato. Rimarranno attivi su facebook, discord, nyaa e sukebei.",
+                    "notes": "",
                     "selected": true
                 },
                 {
@@ -1135,31 +1208,6 @@
                     "socials": [{
                             "type": "tg_channel",
                             "value": "https://t.me/OneShotAnimeSub"
-                        }
-                    ],
-                    "torrent_sources": [],
-                    "rss_sources": [],
-                    "notes": "",
-                    "selected": true
-                },
-                {
-                    "name": "Otaku's Fansub",
-                    "short_name": "",
-                    "socials": [{
-                            "type": "instagram",
-                            "value": "https://instagram.com/anime_otaku_consigli?igshid=YmMyMTA2M2Y="
-                        },
-                        {
-                            "type": "tg_channel",
-                            "value": "https://t.me/OtakusFansub21"
-                        },
-                        {
-                            "type": "tg_generic",
-                            "value": "https://t.me/Collect_yours_waifus_bot"
-                        },
-                        {
-                            "type": "tg_generic",
-                            "value": "https://t.me/CollectComms"
                         }
                     ],
                     "torrent_sources": [],
@@ -1784,6 +1832,15 @@
                         "value": "https://nyaa.si/?page=rss&u=fabiodallas92"
                     }],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Totsuka No Fansub",
+                    "short_name": "",
+                    "socials": [],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "(membri di DDR)adar",
                     "selected": true
                 },
                 {
@@ -2942,9 +2999,16 @@
                 {
                     "name": "Chikubi Fansub",
                     "short_name": "",
-                    "socials": [],
+                    "socials": [{
+                        "type": "web",
+                        "value": "https://chikubifansub.forumfree.it"
+                    }],
                     "torrent_sources": [],
-                    "rss_sources": [],
+                        "rss_sources": [{
+                            "type": "generic_rss",
+                            "value": "https://chikubifansub.forumfree.it/rss.php?c=721549"
+                        }
+                    ],
                     "notes": "",
                     "selected": true
                 },
