@@ -1,5 +1,5 @@
 {
-    "last_update": "2023-12-04",
+    "last_update": "2024-04-11",
     "data": {
         "alive": {
             "name": "Fansub Attivi",
@@ -1028,7 +1028,7 @@
                             "value": "https://sukebei.nyaa.si/?page=rss&u=Rinkana"
                         }
                     ],
-                    "notes": "",
+                    "notes": "Il nuovo sito è offline.",
                     "selected": true
                 },
                 {
@@ -1074,6 +1074,20 @@
                         {
                             "type": "tg_group",
                             "value": "https://t.me/gruppomajotachinosub"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Menta",
+                    "short_name": "",
+                    "socials": [
+                        {
+                            "type": "discord",
+                            "value": "https://discord.gg/RmzdHHwUFb"
                         }
                     ],
                     "torrent_sources": [],
@@ -1177,6 +1191,29 @@
                     "torrent_sources": [],
                     "rss_sources": [],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Ochakai Translations",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://ochakaitranslations.com"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/OchakaiHonyaku"
+                        }
+                    ],
+                    "torrent_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/user/Alcahest"
+                    }],
+                    "rss_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/?page=rss&u=Alcahest"
+                    }],
+                    "notes": "Unione di Ericchi Fansub e ?",
                     "selected": true
                 },
                 {
@@ -2024,6 +2061,20 @@
                     "selected": true
                 },
                 {
+                    "name": "YoRHa Fansub",
+                    "short_name": "",
+                    "socials": [
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/+B_w1UTtk5BM1YjY0"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
                     "name": "Naruto Italian Forum",
                     "short_name": "NIF",
                     "socials": [{
@@ -2190,6 +2241,30 @@
                         "type": "nyaa",
                         "value": "https://nyaa.si/?page=rss&u=ImFilippo"
                     }],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Muxettieri",
+                    "short_name": "",
+                    "socials": [
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/Muxettieri"
+                        }
+                    ],
+                    "torrent_sources": [
+                        {
+                            "type": "nyaa",
+                            "value": "https://nyaa.si/user/Ghegghe"
+                        }
+                    ],
+                    "rss_sources": [
+                            {
+                            "type": "nyaa",
+                            "value": "https://nyaa.si/?page=rss&u=Ghegghe"
+                        }
+                    ],
                     "notes": "",
                     "selected": true
                 },
