@@ -1619,7 +1619,16 @@
                     "socials": [{
                         "type": "web",
                         "value": "https://sarosub.altervista.org"
-                    }],
+                    },
+                    {
+                        "type": "facebook",
+                        "value": "https://www.facebook.com/SaroSub"
+                    },
+                    {
+                        "type": "tg_group",
+                        "value": "https://t.me/JoK3R90"
+                    }
+                ],
                     "torrent_sources": [{
                         "type": "nyaa",
                         "value": "https://nyaa.si/user/tormento"
@@ -1714,14 +1723,6 @@
                     "socials": [{
                             "type": "web",
                             "value": "https://sites.google.com/view/solofansub/home"
-                        },
-                        {
-                            "type": "facebook",
-                            "value": "https://www.facebook.com/SaroSub"
-                        },
-                        {
-                            "type": "tg_group",
-                            "value": "https://t.me/JoK3R90"
                         }
                     ],
                     "torrent_sources": [],
