@@ -1,5 +1,5 @@
 {
-    "last_update": "2024-04-16",
+    "last_update": "2024-04-16 (last fix 2024-07-24)",
     "data": {
         "alive": {
             "name": "Fansub Attivi",
@@ -2097,7 +2097,11 @@
                     "socials": [
                         {
                             "type": "tg_channel",
-                            "value": "https://t.me/+B_w1UTtk5BM1YjY0"
+                            "value": "https://t.me/+z8Mn677ncSk2ZjRk"
+                        },
+                        {
+                            "type": "instagram",
+                            "value": "https://www.instagram.com/yorhafansub"
                         }
                     ],
                     "torrent_sources": [],
