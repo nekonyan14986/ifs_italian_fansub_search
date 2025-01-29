@@ -1,5 +1,5 @@
 {
-    "last_update": "2024-04-16 (last fix 2024-07-24)",
+    "last_update": "2025-01-29",
     "data": {
         "alive": {
             "name": "Fansub Attivi",
@@ -31,61 +31,7 @@
                     ],
                     "torrent_sources": [],
                     "rss_sources": [],
-                    "notes": "Ex 80vogliadihentai. Rebranding in corso.",
-                    "selected": true
-                },
-                {
-                    "name": "Aegi Stranding",
-                    "short_name": "Aegi",
-                    "socials": [{
-                        "type": "web",
-                        "value": "https://aegistranding.wordpress.com"
-                    }],
-                    "torrent_sources": [{
-                        "type": "nyaa",
-                        "value": "https://nyaa.si/user/Yokoshima"
-                    }],
-                    "rss_sources": [{
-                        "type": "nyaa",
-                        "value": "https://nyaa.si/?page=rss&u=Yokoshima"
-                    }],
-                    "notes": "",
-                    "selected": true
-                },
-                {
-                    "name": "Alessandro Fansub",
-                    "short_name": "",
-                    "socials": [
-                        {
-                            "type": "web",
-                            "value": "https://alessandrofansub.altervista.org"
-                        },
-                        {
-                            "type": "youtube",
-                            "value": "https://www.youtube.com/channel/UCX1725vYDfo3sJNHtXWtr3A"
-                        },
-                        {
-                            "type": "twitter",
-                            "value": "https://twitter.com/AlessandroCH__"
-                        },
-                        {
-                            "type": "discord",
-                            "value": "https://discord.com/invite/ZabbxcbVtZ"
-                        },
-                        {
-                            "type": "link",
-                            "value": "https://www.twitch.tv/alessandroch_"
-                        }
-                    ],
-                    "torrent_sources": [{
-                        "type": "anidex",
-                        "value": "https://anidex.info/user/23632"
-                    }],
-                    "rss_sources": [{
-                        "type": "anidex",
-                        "value": "https://anidex.info/rss/user/23632"
-                    }],
-                    "notes": "",
+                    "notes": "Ex 80vogliadihentai. Rebrandizzato.",
                     "selected": true
                 },
                 {
@@ -305,6 +251,10 @@
                             "value": "https://t.me/bbfansubschat"
                         },
                         {
+                            "type": "tg_channel",
+                            "value": "https://t.me/bbfarchivioddl"
+                        },
+                        {
                             "type": "discord",
                             "value": "https://discord.gg/QXAMQ7x"
                         },
@@ -501,6 +451,20 @@
                             "value": "https://nyaa.si/?page=rss&u=DemoneCeleste"
                         }
                     ],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Dora Ryuu Italian Fansub",
+                    "short_name": "DRIF",
+                    "socials": [
+                        {
+                            "type": "tg_group",
+                            "value": "https://t.me/+h_Sw1TbB6p4wMTM0"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
                     "notes": "",
                     "selected": true
                 },
@@ -947,6 +911,54 @@
                     "selected": true
                 },
                 {
+                    "name": "KuroNeko Fansub",
+                    "short_name": "",
+                    "socials": [
+                        {
+                            "type": "web",
+                            "value": "https://kuronekofansub.altervista.org/"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/kuronekofansub"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/+r0slzzSfR2EzZjI0"
+                        },
+                        {
+                            "type": "web",
+                            "value": "https://alessandrofansub.altervista.org"
+                        },
+                        {
+                            "type": "youtube",
+                            "value": "https://www.youtube.com/channel/UCX1725vYDfo3sJNHtXWtr3A"
+                        },
+                        {
+                            "type": "twitter",
+                            "value": "https://twitter.com/AlessandroCH__"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.com/invite/ZabbxcbVtZ"
+                        },
+                        {
+                            "type": "link",
+                            "value": "https://www.twitch.tv/alessandroch_"
+                        }
+                    ],
+                    "torrent_sources": [{
+                        "type": "anidex",
+                        "value": "https://anidex.info/user/23632"
+                    }],
+                    "rss_sources": [{
+                        "type": "anidex",
+                        "value": "https://anidex.info/rss/user/23632"
+                    }],
+                    "notes": "Ex. Alessandro Fansub",
+                    "selected": true
+                },
+                {
                     "name": "Leaf Fansub",
                     "short_name": "",
                     "socials": [{
@@ -982,53 +994,6 @@
                     "torrent_sources": [],
                     "rss_sources": [],
                     "notes": "",
-                    "selected": true
-                },
-                {
-                    "name": "LovelySubs",
-                    "short_name": "LS",
-                    "socials": [
-                        {
-                            "type": "web",
-                            "value": "https://lovelysubs4.wordpress.com/"
-                        },
-                        {
-                            "type": "facebook",
-                            "value": "https://www.facebook.com/lovelysubsitalian"
-                        },
-                        {
-                            "type": "discord",
-                            "value": "https://discord.gg/6YtWkBE"
-                        },
-                        {
-                            "type": "web",
-                            "value": "http://lovelysubs.weebly.com"
-                        }
-                    ],
-                    "torrent_sources": [
-                        {
-                            "type": "nyaa",
-                            "value": "https://nyaa.si/user/Rinkana"
-                        },
-                        {
-                            "type": "nyaa",
-                            "value": "https://sukebei.nyaa.si/user/Rinkana"
-                        }
-                    ],
-                    "rss_sources": [{
-                            "type": "generic_rss",
-                            "value": "http://lovelysubs.weebly.com/1/feed"
-                        },
-                        {
-                            "type": "nyaa",
-                            "value": "https://nyaa.si/?page=rss&u=Rinkana"
-                        },
-                        {
-                            "type": "nyaa",
-                            "value": "https://sukebei.nyaa.si/?page=rss&u=Rinkana"
-                        }
-                    ],
-                    "notes": "Il nuovo sito è offline.",
                     "selected": true
                 },
                 {
@@ -1074,20 +1039,6 @@
                         {
                             "type": "tg_group",
                             "value": "https://t.me/gruppomajotachinosub"
-                        }
-                    ],
-                    "torrent_sources": [],
-                    "rss_sources": [],
-                    "notes": "",
-                    "selected": true
-                },
-                {
-                    "name": "Menta",
-                    "short_name": "",
-                    "socials": [
-                        {
-                            "type": "discord",
-                            "value": "https://discord.gg/RmzdHHwUFb"
                         }
                     ],
                     "torrent_sources": [],
@@ -1380,47 +1331,6 @@
                     "selected": true
                 },
                 {
-                    "name": "Rakuen Subs",
-                    "short_name": "",
-                    "socials": [{
-                            "type": "web",
-                            "value": "http://www.rakuen-subs.net"
-                        },
-                        {
-                            "type": "facebook",
-                            "value": "https://www.facebook.com/rakuensubs"
-                        }
-                    ],
-                    "torrent_sources": [{
-                            "type": "nyaa",
-                            "value": "https://nyaa.si/user/Preacer"
-                        },
-                        {
-                            "type": "anidex",
-                            "value": "https://anidex.info/user/5846"
-                        },
-                        {
-                            "type": "anidex",
-                            "value": "https://anidex.info/group/95"
-                        }
-                    ],
-                    "rss_sources": [{
-                            "type": "nyaa",
-                            "value": "https://nyaa.si/?page=rss&u=Preacer"
-                        },
-                        {
-                            "type": "anidex",
-                            "value": "https://anidex.info/rss/user/5846"
-                        },
-                        {
-                            "type": "anidex",
-                            "value": "https://anidex.info/rss/group/95"
-                        }
-                    ],
-                    "notes": "Il sito è down e non verrà ricaricato nel breve. Valuteremo nel prossimo aggiornamento se passarli in Dead.",
-                    "selected": true
-                },
-                {
                     "name": "RaMa Oriental Fansub",
                     "short_name": "",
                     "socials": [{
@@ -1662,6 +1572,42 @@
                     "selected": true
                 },
                 {
+                    "name": "Seijin no hi Fansub",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://seijinnohifansub.blogfree.net"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/+zkf9pMZ4X9tkMDI0"
+                        }
+                    ],
+                    "torrent_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/user/iijima"
+                    }],
+                    "rss_sources": [{
+                            "type": "nyaa",
+                            "value": "https://nyaa.si/?page=rss&u=iijima"
+                        },
+                        {
+                            "type": "generic_rss",
+                            "value": "https://seijinnohifansub.blogfree.net/rss.php?f=1197794"
+                        },
+                        {
+                            "type": "generic_rss",
+                            "value": "https://seijinnohifansub.blogfree.net/rss.php?f=1197794&nc=1"
+                        },
+                        {
+                            "type": "generic_rss",
+                            "value": "https://seijinnohifansub.blogfree.net/rss.php?c=221445&src=tag"
+                        }
+                    ],
+                    "notes": "",
+                    "selected": true
+                },
+                {
                     "name": "Setsugen no Fansub",
                     "short_name": "",
                     "socials": [{
@@ -1714,6 +1660,18 @@
                         "type": "nyaa",
                         "value": "https://nyaa.si/?page=rss&u=Setsugennoao"
                     }],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Shin no Dyuerisuto Fansub",
+                    "short_name": "",
+                    "socials": [{
+                        "type": "tg_channel",
+                        "value": "https://t.me/shinnodyuerisutofansub"
+                    }],
+                    "torrent_sources": [],
+                    "rss_sources": [],
                     "notes": "",
                     "selected": true
                 },
@@ -1903,15 +1861,6 @@
                     "selected": true
                 },
                 {
-                    "name": "Totsuka No Fansub",
-                    "short_name": "",
-                    "socials": [],
-                    "torrent_sources": [],
-                    "rss_sources": [],
-                    "notes": "(membri di DDR)adar",
-                    "selected": true
-                },
-                {
                     "name": "UMS",
                     "short_name": "",
                     "socials": [{
@@ -2023,35 +1972,6 @@
                     "selected": true
                 },
                 {
-                    "name": "Winds Of Subtitle",
-                    "short_name": "WoS",
-                    "socials": [{
-                            "type": "web",
-                            "value": "http://windsof.net"
-                        },
-                        {
-                            "type": "tg_channel",
-                            "value": "https://t.me/WindsOfSubtitle"
-                        },
-                        {
-                            "type": "tg_group",
-                            "value": "https://t.me/+S8LbMDJnlhmOvGsb"
-                        },
-                        {
-                            "type": "tg_generic",
-                            "value": "https://t.me/WindsOfMusic"
-                        },
-                        {
-                            "type": "tg_generic",
-                            "value": "https://t.me/WindsOfManga"
-                        }
-                    ],
-                    "torrent_sources": [],
-                    "rss_sources": [],
-                    "notes": "Confluiti in Winds Of Re:Sub",
-                    "selected": true
-                },
-                {
                     "name": "Yaoi 801",
                     "short_name": "",
                     "socials": [{
@@ -2061,6 +1981,14 @@
                         {
                             "type": "facebook",
                             "value": "https://www.facebook.com/Yaoi801Fansub?ref=hl"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/+73kWAAI3pQYzOTNk"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.gg/g4Ex7RKZ"
                         },
                         {
                             "type": "twitter",
@@ -2088,7 +2016,7 @@
                             "value": "https://nyaa.si/?page=rss&u=iijima"
                         }
                     ],
-                    "notes": "",
+                    "notes": "Sono ancora attivi, ma il sito è offline. Il canale di supporto Telegram contiene tutti i riferimenti.",
                     "selected": true
                 },
                 {
@@ -2457,6 +2385,24 @@
                     "socials": [],
                     "torrent_sources": [],
                     "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Aegi Stranding",
+                    "short_name": "Aegi",
+                    "socials": [{
+                        "type": "web",
+                        "value": "https://aegistranding.wordpress.com"
+                    }],
+                    "torrent_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/user/Yokoshima"
+                    }],
+                    "rss_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/?page=rss&u=Yokoshima"
+                    }],
                     "notes": "",
                     "selected": true
                 },
@@ -4532,6 +4478,53 @@
                     "selected": true
                 },
                 {
+                    "name": "LovelySubs",
+                    "short_name": "LS",
+                    "socials": [
+                        {
+                            "type": "web",
+                            "value": "https://lovelysubs4.wordpress.com/"
+                        },
+                        {
+                            "type": "facebook",
+                            "value": "https://www.facebook.com/lovelysubsitalian"
+                        },
+                        {
+                            "type": "discord",
+                            "value": "https://discord.gg/6YtWkBE"
+                        },
+                        {
+                            "type": "web",
+                            "value": "http://lovelysubs.weebly.com"
+                        }
+                    ],
+                    "torrent_sources": [
+                        {
+                            "type": "nyaa",
+                            "value": "https://nyaa.si/user/Rinkana"
+                        },
+                        {
+                            "type": "nyaa",
+                            "value": "https://sukebei.nyaa.si/user/Rinkana"
+                        }
+                    ],
+                    "rss_sources": [{
+                            "type": "generic_rss",
+                            "value": "http://lovelysubs.weebly.com/1/feed"
+                        },
+                        {
+                            "type": "nyaa",
+                            "value": "https://nyaa.si/?page=rss&u=Rinkana"
+                        },
+                        {
+                            "type": "nyaa",
+                            "value": "https://sukebei.nyaa.si/?page=rss&u=Rinkana"
+                        }
+                    ],
+                    "notes": "Il nuovo sito è offline.",
+                    "selected": true
+                },
+                {
                     "name": "LunaPark Fansub",
                     "short_name": "",
                     "socials": [{
@@ -4653,6 +4646,20 @@
                     "name": "Marxaid",
                     "short_name": "",
                     "socials": [],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Menta",
+                    "short_name": "",
+                    "socials": [
+                        {
+                            "type": "discord",
+                            "value": "https://discord.gg/RmzdHHwUFb"
+                        }
+                    ],
                     "torrent_sources": [],
                     "rss_sources": [],
                     "notes": "",
@@ -5197,6 +5204,47 @@
                     "torrent_sources": [],
                     "rss_sources": [],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Rakuen Subs",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "web",
+                            "value": "http://www.rakuen-subs.net"
+                        },
+                        {
+                            "type": "facebook",
+                            "value": "https://www.facebook.com/rakuensubs"
+                        }
+                    ],
+                    "torrent_sources": [{
+                            "type": "nyaa",
+                            "value": "https://nyaa.si/user/Preacer"
+                        },
+                        {
+                            "type": "anidex",
+                            "value": "https://anidex.info/user/5846"
+                        },
+                        {
+                            "type": "anidex",
+                            "value": "https://anidex.info/group/95"
+                        }
+                    ],
+                    "rss_sources": [{
+                            "type": "nyaa",
+                            "value": "https://nyaa.si/?page=rss&u=Preacer"
+                        },
+                        {
+                            "type": "anidex",
+                            "value": "https://anidex.info/rss/user/5846"
+                        },
+                        {
+                            "type": "anidex",
+                            "value": "https://anidex.info/rss/group/95"
+                        }
+                    ],
+                    "notes": "Il sito è down e non verrà ricaricato.",
                     "selected": true
                 },
                 {
@@ -5774,6 +5822,20 @@
                     "torrent_sources": [],
                     "rss_sources": [],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Totsuka No Fansub",
+                    "short_name": "",
+                    "socials": [
+                        {
+                            "type": "web",
+                            "value": "http://ddradar.altervista.org/"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "Membri di DDRadar. Esistevano ma non si hanno riferimenti.",
                     "selected": true
                 },
                 {
@@ -6506,6 +6568,35 @@
                     "torrent_sources": [],
                     "rss_sources": [],
                     "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "Winds Of Subtitle",
+                    "short_name": "WoS",
+                    "socials": [{
+                            "type": "web",
+                            "value": "http://windsof.net"
+                        },
+                        {
+                            "type": "tg_channel",
+                            "value": "https://t.me/WindsOfSubtitle"
+                        },
+                        {
+                            "type": "tg_group",
+                            "value": "https://t.me/+S8LbMDJnlhmOvGsb"
+                        },
+                        {
+                            "type": "tg_generic",
+                            "value": "https://t.me/WindsOfMusic"
+                        },
+                        {
+                            "type": "tg_generic",
+                            "value": "https://t.me/WindsOfManga"
+                        }
+                    ],
+                    "torrent_sources": [],
+                    "rss_sources": [],
+                    "notes": "Confluiti in Winds Of Re:Sub",
                     "selected": true
                 },
                 {
