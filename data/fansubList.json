@@ -1,5 +1,5 @@
 {
-    "last_update": "2025-01-29",
+    "last_update": "2025-04-08",
     "data": {
         "alive": {
             "name": "Fansub Attivi",
@@ -578,6 +578,29 @@
                     "rss_sources": [{
                         "type": "nyaa",
                         "value": "https://nyaa.si/?page=rss&u=GattoNeroFansub"
+                    }],
+                    "notes": "",
+                    "selected": true
+                },
+                {
+                    "name": "GenshiSubs",
+                    "short_name": "",
+                    "socials": [{
+                            "type": "web",
+                            "value": "https://t.me/genshisubs"
+                        },
+                        {
+                            "type": "facebook",
+                            "value": "https://www.facebook.com/profile.php?id=61574951196575"
+                        }
+                    ],
+                    "torrent_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/user/Northicc"
+                    }],
+                    "rss_sources": [{
+                        "type": "nyaa",
+                        "value": "https://nyaa.si/?page=rss&u=Northicc"
                     }],
                     "notes": "",
                     "selected": true
